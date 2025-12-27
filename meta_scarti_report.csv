@@ -1,0 +1,886 @@
+SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,has_image
+106949,"Portablocco singolo con molla Sei Rota Superblock ML  21x29,7 cm rosso 29302312",SCARTO_NO_PREZZI_ROW,False,False,False,True,9.0,True,True
+128574,"Astuccio 3 evidenziatori Stabilo Boss Mini by Snooze One - colori assortiti verde, blu e giallo - 07/03-61",SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137161,Espositore 480 evidenziatori Swing® Cool di cui 220 pezzi singoli e 45 astucci in cartone appendibili - colori assortiti,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137364,Espositore 96 matite colorate e in grafite Faber-Castell unicorno e dinosauri - 111560,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137365,Espositore 18 articoli disegno e scrittura Faber-Castell unicorno e dinosauri - 202159,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137366,Espositore 44 astucci appendibili di matite colorate Faber-Castell Black Edition - 116496,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137372,Espositore 120 matite in grafite Faber-Castell HB fusto triangolare unicorno e dinosauro - 111555,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137373,Espositore 144 matite in grafite Faber-Castell HB fusto triangolare unicorno e dinosauro - 111550,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+137374,Espositore 72 matite-evidenziatori Jumbo Grip Neon Faber-Castell colori assortiti 114873,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+100037,Tappetino da taglio Westcott 45x30 cm blu DIN A3 E-46003 00,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+100481,Carta colorata Favini Rismaluce colori forti 90 g/m² A3 arancio Risma da 300 fogli - A66E313,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+100498,Carta colorata Favini Rismaluce colori forti 140 g/m² A4 scarlatto 61 - Risma da 200 fogli - A65C204,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+100505,Carta colorata Favini Rismaluce colori forti 140 g/m² A3 verde - Risma da 200 fogli - A65D213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+100511,Carta colorata Favini Rismacqua colori tenui 140 g/m² A4 verde chiaro 09 Risma da 200 fogli - A65P204,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+100515,Carta colorata Favini Rismacqua colori tenui 140 g/m² A3 rosa 10 - Risma da 200 fogli - A65S213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+100599,Carta colorata Favini Rismaluce colori forti 200 g/m² A4 azzurro 55 - Risma da 50 fogli - A69G544,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+100613,Cartellina semplice FAVINI FOLDER S cartoncino Simplex Luce&Acqua 200 g/m² 25x34cm mix 5 colori  conf. 50 - A50X664,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+100681,Cartoncini Bristol FAVINI 10 BRISTOL superficie levigatissima 200 g/m² 70x100cm azzurro 55  conf.10 - A35G0A1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+100697,Cartoncini Bristol Favini 25 BRISTOL superficie levigatissima 200 g/m² 50x70 cm giallo sole 53 conf.25 - A35B012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+100705,Cartoncini Prisma FAVINI 10 PRISMA monoruvidi colorati 220 g/m² 70x100cm avorio 11  conf.10 - A33Q0A1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+100714,Cartoncini Prisma FAVINI 10 PRISMA monoruvidi colorati 220 g/m² 70x100cm grigio 15  conf.10 - A33W0A1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+100715,Cartoncini Prisma FAVINI 10 PRISMA monoruvidi colorati 220 g/m² 70x100cm verde 37  conf.10 - A33D0A1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+100728,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm rosa 31  conf.20 - A33S012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+100731,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm verde 37  conf.20 - A33D012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+100733,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm turchese 25  conf.20 - A33G012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+100737,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm arancio 03  conf.20 - A33E012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+100742,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm indaco 38  conf.20 - A33O012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+100743,Cartoncini Prisma FAVINI 20 PRISMA monoruvidi colorati 220 g/m² 50x70cm caffe' 07  conf.20 - A33L012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+101360,Raccoglitore personalizzabile Sei Rota Stelvio TI A4 - 2 anelli Q 65 mm bianco dorso 9 cm - 35654601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+101389,Cartella portaprogetti con bottone Sei Rota Big - dorso 12 cm blu - 26x36 cm 68001207,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+101414,Cartella portaprogetti Sei Rota Spazio - dorso 8 cm verde - 26x36 cm 67890805,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+101422,Cartella portaprogetti Sei Rota Spazio - dorso 12 cm verde - 26x36 cm 67891205,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+101973,"Etichette bianche con margini TICO Copy Laser Premium 38x21,2 mm - 65 et./foglio - conf. 100 fogli - LP4W-3821",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+101982,Etichette bianche senza margini TICO Copy Laser Premium 70x25 mm - 36 et./foglio - conf. 100 fogli - LP4W-7025,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+101991,"Etichette bianche con angoli arrotondati TICO Copy Laser Premium 99,1x93,1 mm 6 et./foglio - conf. 100 fogli - LP4W-9993",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+101996,Etichette bianche con margini TICO Copy Laser Premium 105x57 mm - 10 et./foglio - conf. 100 fogli LP4W-10557,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102010,"Etichette arancione fluo con angoli arrotondati TICO Copy Laser 47,5x25,5 mm 44 et/foglio - conf. 70 fogli LP4FA-4725",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102019,"Etichette verde fluo con angoli arrotondati TICO Copy Laser  99,1x34 mm 16 et/foglio - conf. 70 fogli LP4FV-9934",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+102021,"Etichette arancio fluo con angoli arrotondati TICO Copy Laser 99,1x67,7 mm 8 et./foglio - conf. 70 fogli LP4FA-9967",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102025,Etichette arancione fluo con angoli arrotondati TICO Copy Laser 200x142 mm 2 et./foglio conf. 70 fogli LP4FA-200142,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102241,Hard Disk Esterno Verbatim Store'n ' Save 3.0 2 TB nero - 47683,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+102244,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 1 TB nero - 53194,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102245,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 2 TB nero - 53195,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102246,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 4 TB nero - 53223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102247,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 1 TB argento - 53197,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102248,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 2 TB argento - 53198,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102252,Hard Disk Esterno Verbatim Store'n' Go Secure 3.1 con tastierino d'accesso 1 TB nero - 53401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+102257,Flash Memory Card SDHC Verbatim 16 GB  43962,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+102270,DVD-R Wide Stampabile Verbatim 4.7 GB Spindle Case in confezione da 25 dvd - 43538,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+102274,Blu-Ray BD-RE Verbatim 25 GB 2x Jewel Case conf. da 5 - 43615,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102280,DVD+R Double Layer Verbatim Jewel case 8.5 GB - velocità 8x conf. da 5 - 43541,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102325,Chiavetta USB 2.0 Store 'n' Stay Nano Verbatim 32 GB 98130,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102327,Chiavetta  USB 3.0 Metal Executive Verbatim 32 GB 99105,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102336,Raccoglitore Euro-cart Iris A4 dorso 4 cm - 4 anelli tondi 30 mm blu CPCL4-30BLU,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102515,Etichette bianco lucido TICO Press Glossy 36x22 mm - 55 et./foglio - conf. 100 fogli - PG4-3622,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102516,Etichette ovali TICO Press Glossy 36x27 mm bianco lucido - 50 et./foglio - conf. 100 fogli - PG4-3627,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102517,Etichette bianco lucido TICO Press Glossy 45x25 mm - 40 et./foglio - conf. 100 fogli - PG4-4525,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102519,Etichette bianco lucido TICO Press Glossy 61x28 mm - 27 et./foglio - conf. 100 fogli - PG4-6128,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102520,Etichette bianco lucido TICO Press Glossy 61x36 mm - 21 et./foglio - conf. 100 fogli - PG4-6136,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+102534,Plastificatrice a caldo Q-Connect a 2 rulli nero A3 KF17003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102551,"Etichette universali Q-Connect bianco 70x42,3 mm - 21 et./foglio - conf. da 100 fogli - KF10649",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+102561,Etichette universali Q-Connect per CD/DVD Ø 116 mm bianco 2. et/foglio Conf. 25 fogli - KF01579,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102733,Foglietti riposizionabili Q-Connect 70 g/m² arancio neon 76x76 mm 6 blocchetti da 80 ff - KF10517,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+102740,Foglietti riposizionabili Q-Connect 100% materiale riciclato 65 g/m² giallo 76x127mm  12 blocc. da 100 ff - KF05610,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+102853,"Cartellina con clip Q-Connect PVC 22x30,7 cm blu KF00462",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102929,Marcatore a tempera POSCA Uni-Ball punta a scalpello 8 mm giallo M PC8K G,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102964,"Penna a sfera a scatto Q-Connect punta M 0,7 mm rosso - conf. da 10 pezzi - KF00269",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+102996,"Evidenziatore Q-Connect 1,5-5 mm blu  KF01114",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+103027,Matite colorate Faber-Castell Colour Grip assortiti astuccio da 12 - 112469,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+103030,Matite colorate Faber-Castell Colour Grip assortiti astuccio di metallo da 36 - 112435,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+103063,Pastelli a olio Faber-Castell Oil Pastels Creative Studio assortiti astuccio di cartone da 36 - 127036,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+103096,Temperamatite Faber-Castell Sleeve 2 fori con serbatoio nero 182700,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+103175,"Evidenziatore Pastel Q-Connect 1,5-5 mm verde KF17959",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+103494,Portadocumenti con bottone Q-Connect A4 ppl verde KF03597,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+103900,Libro firme Q-Connect 20 pagine 24x35 cm nero KF31014,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+104397,Pannello per leggìo da tavolo Q-Connect Quickfind rosso conf. 10 pezzi - KF04258,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+104626,Registro 194 fogli Pigna Monocromo A4 quadretti 5 mm assortiti 02068735M,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105010,Distruggidocumenti uso moderato FELLOWES Powershred® 125Ci P-4 - 53 L - taglio a frammenti 4x38 mm - 4612002,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105013,Distruggidocumenti uso frequente FELLOWES Powershred 225Ci P-4 60 L taglio a frammento 4x38 mm - 4622003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105014,Distruggidocumenti uso frequente FELLOWES Powershred 225Mi P-5 60L taglio a microframmento 2x12 mm - 4620101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105017,Distruggidocumenti uso frequente FELLOWES Powershred 425Ci P-4 - 114 L taglio a frammenti 4x30 mm - 4698001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105019,Distruggidocumenti uso personale FELLOWES Powershred® 53C - P-4 - 23 L taglio a frammenti 4x35 mm - 4653101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105025,Distruggidocumenti uso moderato FELLOWES Powershred® 79Ci - P-4 - 23 L - taglio a frammenti 4x38 mm - 4679004,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105031,Distruggidocumenti uso moderato FELLOWES AutoMax? 200C - P-4 - 32 L - taglio a frammenti 4x38 mm - nero - 4653602,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105032,Distruggidocumenti uso moderato FELLOWES AutoMax? 200M - P-5 - 32 L - taglio a microframmenti 2x14 mm nero - 4656301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105033,Distruggidocumenti uso frequente  P-4 68 L FELLOWES AutoMax? 350C - taglio a frammenti 4x38 mm nero - 4964101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105066,Plastificatrice a caldo FELLOWES Neptune 3 argento/nero A3 5721501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105080,Rilegatrice a dorsi metallici FELLOWES Galaxy Wire Capacità di perforazione 20 fogli - 5622401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105081,Rilegatrice a dorsi plastici FELLOWES Pulsar+ 300 capacità di perforazione 17 fogli - 5627601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105082,Rilegatrice a dorsi plastici FELLOWES Quasar+ 500 capacità di perforazione 25 fogli - 5627701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105083,Rilegatrice a dorsi metallici FELLOWES Quasar Wire Capacità di perforazione 15 fogli - 5224101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105084,Rilegatrice a dorsi plastici FELLOWES Star+ 150 capacità di perforazione 15 fogli - 5627501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105085,Rilegatrice a dorsi plastici FELLOWES Starlet 2+ 120 capacità di perforazione 12 fogli - 5227901,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105086,Rilegatrice termica FELLOWES Helios 30 capacità di rilegatura 240 fogli 5641001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+105087,Rilegatrice termica FELLOWES Helios 60 capacità di rilegatura 600 fogli 5642003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105089,Sacchetti per distruggidocumenti FELLOWES capacità tra 23 e 28 l 100pz - 36052,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105090,Sacchetti per distruggidocumenti Fellowes capacità fino a 34 lt. Conf. 100 pezzi - 36053,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105117,"Supporto FELLOWES Premium per CPU acciaio nero 24,1x20,3x22,9 cm 9169201",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105121,"Supporto FELLOWES Premium Plus per monitor plastica riciclata grigio 34,3x33,3x6,4-16,5 cm - 91713",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105123,"Supporto FELLOWES Smart Suites per monitor plus ABS grigio/nero 47,8x32,8cm con vaschetta portaoggetti - 8020801",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105124,Supporto FELLOWES Premium per monitor plastica riciclata grafite 18x33x34 cm 9169401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105125,Supporto FELLOWES Smart Suites per monitor plastica grigio/nero 30x53 cm 8020101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105129,Supporto FELLOWES Office Suites? per schiena tessuto in rete nero 50x45x16 cm 9191301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105130,Supporto FELLOWES Professional Series? per schiena tessuto in rete nero 50x45x16cm - 8029901,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105131,"Supporto FELLOWES Deluxe Office Suites per tastiera plastica nero 7,2x61x36,5 cm - 8031201",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105159,"Penna a sfera ricaricabile Pilot BPS punta fine 0,7 mm nero 001606",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105186,"Roller a inchiostro liquido Pilot V BALL punta fine 0,5 mm nero F 011260",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105207,"Marcatore punta a scalpello Pilot SCA maxi 6600 3-12,5 mm rosso 002433",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105266,"Roller Pilot Hi Tecpoint V7 0,7 mm nero  011710",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+105350,Penne a punta sintetica Staedtler Lumocolor permanent pen 313 s assortiti astuccio da 4 pezzi - 313 WP4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105354,Penne a punta sintetica Staedtler Lumocolor permanent pen 317 M assortiti astuccio da 4 pezzi - 317 WP4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105610,"Fineliner Stabilo Point 88 0,4 mm assortiti scatola in metallo da 50 - 8850-6",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+105693,Evidenziatori Stabilo Luminator 2-5 mm assortiti set da scrivania da 4 - 7104-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+105974,Dispenser per nastro adesivo Scotch® Magic? C38 nero + 12 rotoli 19 mm x 33 m SM12 Black,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+106196,Pennarelli per tessuti GIOTTO Decor Textile tratto fine 1-3 mm assortiti astuccio da 8 + t-shirt bianca - 494500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+106282,Matite acquarellabili GIOTTO Stilnovo Acquarell assortiti scatola in metallo da 36 - F256400,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+106417,Penna a punta sintetica TRATTO Pen 2 mm assortiti astuccio appendibile da 12 - F807700,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+106555,Portastampati da banco Q-Connect 1/3 di A4 in polistirolo trasparente 4 scomparti - KF04186,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107001,"Custodia per raccoglitori e registratori Sei Rota 30 A4 f.to esterno 26,5x32 cm - dorso 4,5 cm nero - 67143010",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107002,"Custodia per raccoglitori e registratori Sei Rota 40 A4 f.to esterno 28,5x32 cm - dorso 6,5 cm nero - 67144010",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107003,"Custodia per raccoglitori e registratori Sei Rota 50 A4 f.to esterno 29,5x32 cm - dorso 8 cm nero - 67145010",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107005,Custodia per raccoglitori e registratori Sei Rota 65 A4 f.to esterno 28x32 cm - dorso 10 cm nero - 67146510,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107010,Buste a fortatura universale Sei Rota Atla F per fotografie 4 spazi 15x21 cm trasparente  Conf. 10 pezzi - 662503,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107039,Portalistini Sei Rota Asso - 20 buste 22x30 cm blu 57212007,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107049,Portalistini Sei Rota Asso - 40 buste 22x30 cm rosso 57214012,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107246,Segnaletica da pavimento forma ''croce'' DURABLE RAL 1003 giallo 15x15 cm Conf. 10 pezzi - 170104,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107247,Buste a fascia DURABLE per piede pallet plastica blu scuro 145 x 65 mm conf. 50 - 172407,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107248,Bobina di nastro antiscivolo adesivo DURABLE DURALINE STRONG rosso 172503,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107249,Bobina di nastro antiscivolo adesivo DURABLE DURALINE STRONG giallo 172504,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107252,Bobina di nastro antiscivolo adesivo DURABLE DURALINE 50/07 rosso segnale-bianco - 1726132,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107254,Pittogramma di sicurezza ''Vietato fumare'' DURABLE rosso Ø 430 mm 172803,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107255,Pittogramma da pavimento ''Indossare la protezione auricolare'' DURABLE azzurro Ø 430 mm - 172906,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107256,Pittogramma da pavimento ''Accesso vietato alle persone non autorizzate'' DURABLE rosso Ø 430 mm - 173003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107260,Pittogramma da pavimento ''Gilet di sicurezza alta visibilità obbligatorio'' Durable azzurro Ø 430 mm - 173506,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107261,Tasche per identificazione Durable con bande magnetiche blu f.to esterno mm. 130x53- inserto 100x38mm cf. 50 - 174107,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107264,Tasche per identificazione Durable con bande magnetiche blu f.to esterno mm. 223x313- inserto A4 vert. cf. 50- 174407,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107265,Tasche per identificazione Durable con bande magnetiche blu f.to esterno mm. 311x225- inserto A4 orizz. cf 50- 174507,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107268,Tasche per identificazione Durable con fascette di aggancio blu f.to esterno mm 223x380- inserto A5 orizz. Cf 50- 174907,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107270,Tasche per identificazione Durable con fascette di aggancio blu f.to esterno mm 311x442- inserto A4 orizz. cf 50- 175107,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107273,"Tasche per identificazione Durable con bande adesive blu f.to esterno mm. 163x 83x1,7- inserto 150x67mm cf. 50 - 176207",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107276,"Tasche per identificazione Durable con bande adesive blu f.to esterno mm. 223x 163x1,7- inserto A5 orizz. cf 50- 179507",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107277,"Tasche per identificazione Durable con bande adesive blu f.to esterno mm. 233x 313x1,7- inserto A4 vert. cf. 50- 179707",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107278,Cassetta portachiavi DURABLE KEY BOX 18 alluminio argento metallizzato - serratura a chiave - 195123,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107279,Cassetta portachiavi DURABLE KEY BOX 36 alluminio argento metallizzato - serratura a chiave - 195223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107280,Cassetta portachiavi DURABLE KEY BOX 72 alluminio argento metallizzato - serratura a chiave - 195523,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107282,Cassetta portachiavi DURABLE KEY BOX PLUS 54 posti alluminio argento met. serratura a combinazione - 196823,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107288,Porta carte di credito DURABLE RFID Secure 54x86 mm antracite per 8 carte 230958,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107302,Cestino gettacarte DURABLE cilindrico con superficie perforata acciaio 15 l nero - 330001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107309,Posacenere Durable a colonna acciaio con sabbia e cestino base tonda H 62 x Ø 26 cm nero - 333001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107310,Posacenere Durable a colonna acciaio con sabbia e cestino base tonda H 62 x Ø 26 cm argento metallizzato - 333023,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107311,Posacenere Durable a colonna acciaio con sabbia e cestino base quadrata H 62 x Ø 25 cm nero - 333101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107312,Posacenere Durable a colonna acciaio con sabbia e cestino base quadrata H 62 x Ø 25 cm argento metallizzato - 333123,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107313,Posacenere DURABLE autoestinguente a colonna con sabbia e cestino acciaio nero base tonda - 333201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107314,Posacenere DURABLE autoestinguente a colonna - cestino acciaio argento metallizzato base tonda - 333223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107316,"Portaombrelli DURABLE acciaio verniciato nero capacità 28,5 lt - Ø 26 cm - h 62 cm - 335001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107317,"Portaombrelli DURABLE acciaio verniciato argento metallizzato capacità 28,5 lt - Ø 26 cm - h 62 cm - 335023",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107324,"Targhe DURABLE INFO SIGN alluminio/acrilico trasparente/argento metallizzato 149x148,5 mm - 480223",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107329,Espositore da terra DURABLE CRYSTAL SIGN STAND A4 argento metallizzato - 481823,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107335,Targa DURABLE CRYSTAL SIGN acrilico trasparente 297x420 mm 482619,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107344,Cornici con pannello magnetico DURABLE DURAFRAME® MAGNETIC A3 PVC rigido nero 323x446mm  conf. 5 - 486801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107346,Cornici con pannello magnetico DURABLE DURAFRAME® MAGNETIC A3 PVC rigido blu scuro 323x446mm  conf. 5 - 486807,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107359,Cornici con pannello magnetico DURABLE DURAFRAME® A4 blu scuro 236x323mm conf. 2 - 487207,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107362,Cornici con pannello magnetico DURABLE DURAFRAME® A4 oro 236x323mm conf. 2 - 487230,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107366,Cornici con pannello magnetico DURABLE DURAFRAME® A3 blu scuro 325x445mm conf. 2 - 487307,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107371,Pittogramma adesivo ''WC diversamente abili'' DURABLE acciaio inox argento metallizzato Ø 83 mm - 490623,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107375,Pittogramma adesivo ''Prego sedersi'' DURABLE argento metallizzato Ø 83 mm 492123,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107379,Pittogramma adesivo DURABLE 90 x 120 mm acciaio inossidabile spazzolato argento metallizzato WC uomini - 495123,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107382,Cornici con pannello magnetico DURABLE DURAFRAME® MAGNETIC PLUS A4 nero 236x323mm  conf. 2 - 498501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107383,Cornici con 2 pannelli magnetici DURABLE DURAFRAME® MAGNETIC PLUS A4 argento metallizzato 236x32x3mm conf. 2 - 498523,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107393,Leggio da parete DURABLE VARIO® WALL 20 pannelli A4 acciaio/polipropilene colori assortiti - 551200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107398,Leggio da parete DURABLE SHERPA® WALL 5 pannelli A4 ABS nero 581001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107399,Supporto da parete DURABLE FUNCTION WALL MODULE 5 acciaio verniciato a polvere grigio - 584010,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107416,Portanomi DURABLE da tavolo polietilene trasparente inserto 61/122 x 210 mm conf. 25 - 805219,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107424,Cordoncino per portabadge DURABLE tessuto blu 10mm x 44cm  conf. 10 - 811907,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107426,Portanomi DURABLE tasca chiusa trasparente 90x60 mm conf. 20 - 813519,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107432,Accessori per portanomi e portabadge DURABLE chiocciole YO-YO rotonda in plastica  conf. 10 - 815258,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107434,Portabadge Durable DELUXE 54x85 mm con cordoncino trasparente Conf. 10 pezzi - 820758,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107450,Espositore da tavolo DURABLE COMBIBOXX A4 SET L a 3 vaschette trasparente 858019,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107456,Tasca porta carte di credito DURABLE RFID SECURE argento metallizzato 54x86mm conf. 10 - 890023,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107457,Tasca porta carte di credito DURABLE RFID SECURE CONFEZIONE RETAIL trasparente 54x86mm  conf. 3 - 890319,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107469,"Porta tablet da tavolo Durable, morsetto e braccio di supporto estensibile argento metallizzato 10x44x21cm - 893123",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107470,"Porta tablet da pavimento DURABLE per tablet da 7'' a 13'' argento metallizzato 27x27x121,5cm - 893223",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107472,"Porta tablet da muro DURABLE con braccio estensibile argento metallizzato 9,5x22,5x17cm - 893423",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107478,"Espositore da parete DURABLE FLEXIPLUS 2 comparti A4 polistirolo nero - 24,7x10x36 cm - 1709008060",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107483,Coperchio per portarifiuti DURABLE DURABIN 90 l nero 1800475221,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107485,Coperchio per bidone portarifiuti DURABLE DURABIN 60 l giallo 1800500030,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107486,Coperchio per bidone portarifiuti DURABLE DURABIN 60 l blu 1800500040,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107488,Contenitore portarifiuti DURABLE DURABIN SQUARE 40 polietilene bianco 1800798010,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107493,Portanomi DURABLE EUROBADGE con combi clip pvc trasparente inserto 54x90mm conf. 50 - 814519,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+107504,Clip adesive DURABLE DURAFIX® RAIL argento metallizzato 210x17mm conf. 5 - 470623,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+107505,Clip adesive DURABLE DURAFIX® RAIL argento metallizzato 297x17mm conf. 5 - 470723,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107514,Clip fermacavi adesiva DURABLE CAVOLINE CLIP 1 grafite per 1 cavo fino a 5 mm conf. da 6 - 503737,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107517,Clip fermacavi adesiva DURABLE CAVOLINE CLIP 4 grafite per 4 cavi conf. da 2 - 504037,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+107519,Clip fermacavi adesiva DURABLE CAVOLINE CLIP PRO 1 grafite per 1 cavo conf. da 6 - 504237,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+107521,"Porta tablet da muro DURABLE con braccio ad angolazione variabile argento metallizzato 8,5x5x18cm - 893523",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107584,Fatturazione elettronica Semper conferimento/revoca delega servizi - modulo continuo - 851118FE0,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107585,Cassetto fiscale Semper conferimento/delega consultazione - modulo continuo - 851118CS0,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107919,Cancellino magnetico per lavagna EURO-CART blu 14x5 cm L-35/35,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108058,Classificatore alfanumerico con custodia King Mec MEC 12 dorso 7 cm blu 11304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108428,Registratore con custodia Esselte G54 Eurofile protocollo dorso 5 cm cartone rivestito in PP verde - 390754180,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108435,Registratore con custodia Esselte G55 Eurofile protocollo dorso 8 cm cartone rivestito in PP arancione - 390755200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108505,Cartelle a 2 lembi Esselte I56 DELSO LINE 6/I51 bianco/grigio 25x32 cm dorso 3 cm 6 cartelle - 390956040,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108515,Gruppo di raccoglitori a 2 anelli Esselte S65 ESSENTIALS E6 blu dorso 4cm 6 cartelle - 391965050,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108567,Raccoglitore Esselte Meeting a 4 anelli tondi 30mm cartone rivestito in PP blu 22x30cm dorso 4cm - 395792500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108729,Perforatore a 4 fori a distanza variabile Leitz AKTO 5114 30 fogli grigio metallizzato - 51140184,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108747,Vaschetta portacorrispondenza Leitz SORTY JUMBO in polistirolo A3 o due risme A4 nero - 52320095,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108748,Vaschetta portacorrispondenza impilabile Leitz PLUS JUMBO in polistirolo A4 trasparente satinato - 52330003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108749,Vaschetta portacorrispondenza impilabile Leitz PLUS JUMBO in polistirolo A4 rosso 52330025,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108773,Adattatore universale per vaschette Presenter Leitz trasparente 54030002,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108806,Punti metallici 23/15XL per cucitrice 5553 Leitz 23/15 XL scatola da 1000 punti - 55790000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+108816,"Borsa per computer Leitz Smart Traveller 15,6'' in poliestere 2 scomparti nero - 60160095",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+108817,"Zaino portacomputer Leitz Smart Traveller 15,6'' poliestere 2 scomparti nero - 60170095",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+108826,"Scatola per archiviazione universale ''L'' Leitz CLICK & STORE bianco metallizzato 36,9x20x48,2 cm - 60450001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+108872,"Copertina rigida 10-35 fogli Leitz impressBIND in cartone con dorso da 3,5 mm A4 bianco  conf. da 10 - 73900001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+108876,Copertina rigida 36-70 fogli Leitz impressBIND in cartone con dorso da 7 mm A4 bordeaux  conf. da 10 - 73910028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108877,Copertina rigida 36-70 fogli Leitz impressBIND in cartone con dorso da 7 mm A4 blu  conf. da 10 - 73910035,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108881,"Copertina rigida max 211-245 fogli Leitz impressBIND in cartone con dorso da 24,5 mm A4 blu  conf. da 10 - 73960035",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+108883,"Copertina flessibile max 10-35 fogli Leitz impressBIND in PPL con dorso da 3,5 mm A4 bianco  conf. da 10 - 73980001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108884,"Copertina flessibile max 10-35 fogli Leitz impressBIND in PPL con dorso da 3,5 mm A4 blu  conf. da 10 - 73980035",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+108885,"Copertina flessibile max 10-35 fogli Leitz impressBIND in PPL con dorso da 3,5 mm A4 nero  conf. da 10 - 73980095",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108886,Copertina flessibile max 36-70 fogli Leitz impressBIND in PPL con dorso da 7 mm A4 bianco  conf. da 10 - 73990001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108889,"Copertina flessibile max 71-105 fogli Leitz impressBIND in PPL con dorso da 10,5 mm A4 blu  conf. da 10 - 74140035",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+108890,"Copertina flessibile max 71-105 fogli Leitz impressBIND in PPL con dorso da 10,5 mm A4 nero  conf. da 10 - 74140095",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+108891,Copertina flessibile max 106-140 fogli Leitz impressBIND in PPL con dorso da 14 mm A4 bianco  conf. da 10 - 74150001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+108892,Copertina flessibile max 106-140 fogli Leitz impressBIND in PPL con dorso da 14 mm A4 blu  conf. da 10 - 74150035,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+109557,Dorsi plastici FELLOWES blu ad anello tondo 16 mm - 101-120 fogli conf.100 - 5347106,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109562,Dorsi plastici per rilegatura FELLOWES ad anello tondo 22 mm bianco 151-180 fogli - conf.50 - 5347803,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+109566,"Dorsi plastici FELLOWES blu ad anello tondo 25 mm - 181-200 fogli 31x3,2x22,5 cm conf.50 - 5348304",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109568,Dorsi plastici FELLOWES bianco ad anello tondo 28 mm - 201-240 fogli conf.50 - 5348602,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109569,Dorsi plastici FELLOWES blu ad anello tondo 28 mm - 201-240 fogli conf.50 - 5348702,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109574,Dorsi plastici FELLOWES bianco ad anello ovale 38 mm - 281-340 fogli conf.50 - 5349402,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109579,Dorsi plastici FELLOWES nero ad anello ovale 45 mm - 341-400 fogli conf.50 - 5350102,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+109582,Dorsi plastici FELLOWES nero ad anello ovale 51 mm - 401-450 fogli conf.50 - 5350502,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109586,Dorsi metallici FELLOWES bianco 8 mm - - capacità 36-60 fogli conf.100 - 53258,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109589,Dorsi metallici FELLOWES bianco 10 mm - - capacità 61-80 fogli conf.100 - 53262,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109590,Dorsi metallici FELLOWES nero 10 mm - - capacità 61-80 fogli conf.100 - 53265,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+109595,Dorsi metallici FELLOWES bianco 12 mm - - capacità 81-100 fogli conf.100 - 53270,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109597,Dorsi metallici FELLOWES argento 12 mm - - capacità 81-100 fogli conf.100 - 54453,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109598,Dorsi metallici FELLOWES 14 mm bianco - - capacità 101-130 fogli conf.100 - 53274,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109599,Dorsi metallici FELLOWES 34 anelli 14 mm nero - capacità 101-130 fogli Conf. 100 pezzi - 53277,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+109612,Copertine per rilegatura FELLOWES Delta goffrate cartoncino nero A3 250 g/m² conf. 100 pezzi - 5374401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109613,Copertine per rilegatura FELLOWES Super Clear PVC trasparente A4 conf.100 - 5376102,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109614,Pouches per plastificatrici Fellowes ImageLast Enhance80 finitura lucida - 2x80 µm - A3 - Conf. 100 pezzi - 5306207,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109623,Pouches per plastificatrici Fellowes Standard Capture125 finitura lucida - 2x125 µm 83x113 mm Conf. 100 pz 5307101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109629,Pouches per plastificatrici Fellowes Standard Capture125 finitura opaca - 2x125 µm - A3 - Conf. 100 pezzi 5328601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109630,Pouches per plastificatrici Fellowes Standard Capture125 finitura lucida - 2x125 µm - A2 - Conf. 50 pz - 5309302,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+109631,Pouches per plastificatrici Fellowes Standard Protect175 finitura lucida - 2x175 µm - A4 - Conf. 100 pezzi 5308703,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109632,Pouches per plastificatrici Fellowes Standard Protect175 finitura lucida - 2x175 µm - A3 - Conf. 100 pezzi 5308803,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109633,Pouches per plastificatrici Fellowes Standard Preserve250 finitura lucida - 2x250 µm - A4 - Conf. 100 pezzi 5401802,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+109637,Distruggidocumenti uso moderati FELLOWES AutoMax? 550C - P-4 - 83 L - taglio a frammenti 4x38mm - nero - 4963101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109638,Distruggidocumenti uso moderato FELLOWES AutoMax? 100M - P-4 - 23 L - taglio a miniframmenti 4x10mm - nero - 4629201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+109646,Supporto FELLOWES notebook Professional Series? plastica e metallo nero/silver 8024602,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109647,"Poggiapolsi da tastiera FELLOWES Crystal? Gel azzurro 1,59x5,87x47,15 cm - 9113709",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109649,"Tappetino mouse con poggiapolsi FELLOWES gel grafite 15,6x25x2,6 cm 9374001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109650,"Poggiapolsi da tastiera FELLOWES Premium gel grafite 48,8x8,8x3,6 cm - 9374201",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+109651,Poggiapiedi FELLOWES Professional Series? Heavy Duty acciaio nero h. 105/120/135mm - 8064101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109655,"Poggiapolsi da tastiera FELLOWES Crystal? Gel nero - 1,59x5,87x47,15 cm 9112201",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+109658,"Supporto schiena FELLOWES Professional Series Ultimate 36,5 x 37.5 x 5,5 cm nero - 8041801",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+109663,Mouse verticale FELLOWES Penguin® medio con filo grigio/nero 9894601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109664,Mouse verticale FELLOWES Penguin® Wireless nero/argento medio 9894701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+109665,Mouse verticale FELLOWES Penguin® con filo grigio/nero piccolo 9894801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+109668,Tappetino mouse con poggiapolsi FELLOWES Photo Gel disegno pneumatico 9653401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+110412,Set altoparlanti stereo USB TRUST MiLa 2.0 nero 16697,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+113660,Toner Q-Connect rigenerato HP 53A - HP Q7553A nero - KF04324,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+113662,Toner Q-Connect rigenerato HP 51A - HP Q7551A nero - KF04326,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+113706,Toner Q-Connect rigenerato HP CB540A nero - KF10821,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+113778,Toner Q-Connect rigenerato HP CE390A nero - KF15684,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+113781,Toner Q-Connect rigenerato Samsung MLT-D1042S/ELS nero - KF15756,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+113836,Toner Q-Connect rigenerato HP CB541A ciano - KF10822,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+113851,Toner Q-Connect rigenerato HP CE311A ciano - KF15428,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+113865,Toner Q-Connect rigenerato HP CF211A ciano - KF16490,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+113881,Toner Q-Connect rigenerato HP CB543A magenta - KF10823,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+113911,Toner Q-Connect rigenerato HP CF213A magenta - KF16491,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+113928,Toner Q-Connect rigenerato HP CB542A giallo - KF10824,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+113958,Toner Q-Connect rigenerato HP CF212A giallo - KF16492,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114213,Scatola nascondi-cavi DURABLE con multi presa 5 entrate 406x156x139 mm grafite 503037,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+114214,Scatola nascondi-cavi DURABLE con multi presa a 3 entrate 246x116x128 mm grafite 503537,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114419,Rotolo fax Rotolificio Pugliese carta termica alta sensibilità 210 mm x 30 m foro 12 mm - F21030,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+114470,Buste a sacco bianche autoad. removibili Pigna Envelopes Competitor strip 80 g/m² 230x330 mm  conf. 500 - 0029481,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+114475,Buste a sacco autoadesive Pigna Envelopes Multi strip kraft avana 100 g/m² 250x353 mm  conf. 500 - 0099076,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114478,Buste a sacco Pigna Envelopes Multi Strip 30x40 cm avana Conf. 500 pezzi - 0655143,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114481,Buste a sacco Pigna Envelopes Competitor strip 80 g/m² 162x229 mm bianco Conf. da 20 buste - 0654555,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+114485,Buste con 2 finestre Pigna Envelopes FLY-Matic 2 80 g/m² 115x230 mm bianco conf. 1000 - 0224302,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+114496,Buste a sacco con soffietto Pigna Envelopes Multi Strip Extra 23+4 x 33 cm avana Conf. 250 pezzi - 0208887,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114522,Buste con finestra Pigna Envelopes Silver90 90 g/m² 110x230 mm bianco conf. 500 - 0170578,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114755,Toner Q-Connect rigenerato Epson C13S050166 nero - K12305QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114773,Toner Q-Connect rigenerato HP CE255A nero - KF14724,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114774,Toner Q-Connect rigenerato Samsung MLT-D1052L/ELS nero - KF16096,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+114783,Toner Q-Connect rigenerato Lexmark C540H1KG nero - K15467QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114786,Toner Q-Connect rigenerato HP CE400X nero - KF16076,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114787,Toner Q-Connect rigenerato Samsung MLT-D101S/ELS nero - KF17914,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+114788,Toner Q-Connect rigenerato HP CE410X nero - KF16031,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114789,Toner Q-Connect rigenerato HP CF280A nero - KF16487,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114792,Toner Q-Connect rigenerato Samsung MLT-D103L/ELS nero - K15597QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+114795,Toner Q-Connect rigenerato Lexmark 502H (50F2H0E) nero - KF26126,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114797,Toner Q-Connect rigenerato Lexmark 60F2000 nero - KF16883,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+114800,Toner Q-Connect rigenerato Samsung MLT-D116L/ELS nero - KF18042,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+114805,Toner Q-Connect rigenerato HP CF400X nero - KF18644,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114809,Toner Q-Connect rigenerato HP CF410A nero - KF18648,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114814,Toner Q-Connect rigenerato HP CF230A nero - KF16875,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+114987,Toner Q-Connect rigenerato Lexmark C540H1CG ciano - K15468QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114988,Toner Q-Connect rigenerato HP CE401A ciano - K15538QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+114989,Toner Q-Connect rigenerato HP CE411A ciano - KF16032,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114991,Toner Q-Connect rigenerato Samsung CLT-C504S/ELS ciano - K15624QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114995,Toner Q-Connect rigenerato HP CF401X ciano - KF18645,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114996,Toner Q-Connect rigenerato HP CF411A ciano - KF18649,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+115051,Toner Q-Connect rigenerato HP CE403A magenta - K15539QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+115052,Toner Q-Connect rigenerato HP CE413A magenta - KF16033,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+115113,Toner Q-Connect rigenerato Lexmark C540H1YG giallo - K15470QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+115114,Toner Q-Connect rigenerato HP CE402A giallo - KF16079,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+115115,Toner Q-Connect rigenerato HP CE412A giallo - KF16034,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+115265,Cartelline semplici EURO-CART Cartoncino Manilla 25x35 cm gr. 145 azzurro conf. da 100 pezzi - CM01AZ145_DESK,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+116030,Buste a perforazione universale Q-Connect 22x30 cm medio spessore finitura goffrata conf. 50 pz - KF11191,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+117751,Matite colorate  permanenti Goldfaber Faber-Castell 12 colori Con. 12 pezzi - 114712,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+117818,"Cassettiera DURABLE Varicolor® 5 cassetti 28x35,6x29,2 cm profili colorati - 762527",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+117819,"Cassettiera DURABLE Varicolor® 10 cassetti 28x35,6x29,2 cm profili colorati - 63027",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118114,Vaschette portacorrispondenza Leitz WOW in polistirolo A4 giallo metallizzato 52263016,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+118188,Braccio Monitor Singolo per regolare monitor LCD/TFT Fellowes Professional Series?nero max 32 pollici - 8041601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118189,Braccio Monitor Singolo per regolare monitor LCD/TFT Fellowes Platinum Series nero max 24 pollici - 8043301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+118190,Filtri privacy Fellowes per monitor 14 pollici W.S.  nero 4812001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+118198,Distruggidocumenti uso moderato Fellowes LX201 - P-5 - 22 L - taglio a microframmenti 2x12 mm - bianco 5050101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118200,Distruggidocumenti uso moderato Fellowes LX211 - P-5 - 23 L - taglio a microframmenti 2x12 mm - bianco 5050301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118202,Distruggidocumenti uso moderato Fellowes LX221 - P-5 - 30 L - taglio a microframmenti 2x12 mm - bianco 5050501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118256,"Fineliner Pilot Frixion 0,45 mm assortiti 8 colori Conf. 8 pezzi - 355",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+118409,Pennarelli Stabilo Pen 68 metallic 1 mm  argento - 68/805,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+118414,Matite colorate acquerellabili Stabilo aquacolor® astuccio in cartone assortiti Conf. 36 pezzi - 1636-7,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+118448,Matite colorate Stabilo Color assortiti  Conf. 24 pezzi - 1924/77-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+119099,"Marcatore punta a scalpello Pilot SCA broad 2-4,5 mm blu 002420",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+119381,Etichette removibili Q-Connect per Dymo LabelWriter - spedizioni/badge 41x89 mm rotolo 300 etichette KF18535,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+119763,Distruggidocumenti uso personale P-4 Fellowes Powershred LX200 22 L - taglio a miniframmenti 4x12 mm nero 5502201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+119764,Distruggidocumenti uso moderato Fellowes Powershred LX210 - P-4 - 23 L - nero - taglio a miniframmenti 4x12 mm FW5502501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+119765,Distruggidocumenti uso frequente P-4 Fellowes Powershred LX220 30 L - taglio a mini frammento 4x12 mm nero 5502601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+119766,"Rilegatrice 3 in 1 Fellowes Lyra a dorsi plastici, pinzatrice e perforatrice 2/4 fori bianco - 5603101",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+119768,Purificatore d'aria Fellowes AeraMax DX95 - per ambienti fino a 48 mq - grigio - 9393801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+119769,Filtro HEPA Vero per purificatori d'aria Fellowes AeraMax DX55 - 9287101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+119771,Filtri al carbone attivo per purificatori d'aria Fellowes AeraMax DX55 - conf. 4 pezzi - 9324101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+119836,Nastro adesivo extra resistente Scotch® Extremium Universal 48 mm x 25 m - arancione alta visibilità - 29044825O,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+120042,Gruppo di continuità (UPS) Paxxon da 1500 VA Trust nero 23505,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120080,Carta colorata Favini Le Cirque A3 80 g/m² colori  tenui Celeste 101 - risma da 500 fogli - A71T353,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120081,Carta colorata Favini Le Cirque A3 80 g/m² colori  tenui Pistacchio 102 - risma da 500 fogli - A716353,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+120103,Carta colorata Favini Le Cirque A3 160  g/m² colori forti Azzurro reale 204 risma da 250 fogli - A74G223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120109,Carta colorata Favini Le Cirque A4 160 g/m² assortiti 5 colori tenui risma da 250 fogli - A74X304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+120406,"Penne a sfera cancellabili Pilot Frixion Ball Clicker 0,7 mm nero blu rosso verde Set2go 4 pezzi - 006822",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120439,Braccio porta monitor per 1 schermo max 27'' DURABLE argento metallizzato 345x470x120 mm - 5083-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120440,Braccio porta monitor per 2 schermi max 27'' DURABLE argento metallizzato 780x445x190 mm - 5085-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+120441,Braccio porta monitor per 1 schermo max 27'' e 1 tablet max 13'' DURABLE argento metallizzato 780x445x190 mm - 5087-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+120442,Porta tablet da muro DURABLE Tablet Holder Wall XL 85x50x180 mm argento metallizzato - 8938-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+120443,Cornice espositiva adesiva DURABLE DURAFRAME® A4 - argento conf. 10 pezzi  - 4882-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120445,Cassetta portachiavi in alluminio DURABLE Key Box 36 chiavi 302x118x280 mm - 1966-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+120446,Cassetta portachiavi in alluminio DURABLE Key Box 72 chiavi 302x118x400 mm - 1967-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120447,Tasche per identificazione a fissaggio magnetico DURABLE 113x53 mm giallo Conf. 50 pz - 1741-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120448,"Tasche per identificazione a fissaggio magnetico DURABLE 163x81,5 mm giallo Conf. 50 pz - 1742-04",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120449,"Tasche per identificazione a fissaggio magnetico DURABLE 223x81,5 mm giallo Conf. 50 pz - 1757-04",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+120462,"Asciugamani interfogliati piegati a W Papernet 2 veli - 32x20,3 cm - bianco Conf. 20 fascette da 100 pezzi - 407552",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120496,Gruppo di continuità Oxxtron 1000VA Trust con batteria integrata - 2 prese nero - 21199,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120497,Gruppo di continuità (UPS) MAXXON POWERSTRIP 800VA Trust 6 prese a parete - nero - 23326,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+120505,"Cuffie on-ear Trust HS-201 USB 2.0 nero - cavo 1,8 m 25373",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+120523,Mouse ergonomico ricaricabile wireless Trust OZAA ricevitore USB A 2.0 - portata 10 m - bianco - 24035,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+120525,"Mouse ultrasottile wireless ricaricabile Trust Puck h. 2,7 cm - ricevitore USB A 2.0 nero - 24059",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+121117,Matite colorate Faber-Castell Sparkle colori assortiti 20 matite + 1 temperino sleeve mini turchese - 201641,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+121191,Buste in PP buccia Sei Rota Gaia trasparente 22x30 cm - confezione 25 pezzi - alto spessore - 722230,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+121232,Penna a sfera a scatto Pilot ecoball B2P ricaricabile - punta 1 mm - inchiostro a base d'olio - nero - 040176,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+121305,Cestino con sensore DURABLE NO TOUCH argento metallizzato - capienza 6 Lt - 3420-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121306,Cestino con sensore DURABLE NO TOUCH argento metallizzato - capienza 12 Lt - 3421-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121451,"Desk set evidenziatori Q-Connect Pastel 1,5-5 mm - colori pastello assortiti conf. 8 pezzi - KF17806",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+121733,Pennarelli Faber-Castell Castello Superlavabili punta fine 3 mm assortiti astuccio in cartone 50 pezzi - 554204,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121802,Plastificatrice caldo/freddo Jupiter A3 Fellowes bianca 5748401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+121803,Plastificatrice caldo/freddo Venus A3 Fellowes bianca 5746701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+121911,Plastificatrice a caldo compatta a 2 rulli Leitz iLam Home Office A4 grigio metallizzato - 73680089,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121941,Lavagna magnetica in vetro Leitz Cosy - 450x450mm - giallo caldo 70440019,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121945,"Registratore Leitz Cosy Active con meccanismo a leva 180° - A4 - dorso 8,2 cm - blu calmo - 10380061",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121950,"Cassettiera Cosy - 2 cassetti - 25x14,3x27,5 cm Leitz giallo caldo 53570019",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+121954,"Bottiglia termica Cosy da 500 ml - 6,8x23,5x6,8 cm Leitz blu calmo 90160061",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+121955,"Bottiglia termica Cosy da 500 ml - 6,8x23,5x6,8 cm Leitz grigio velluto 90160089",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+122005,Portaprogetti in cartone con elastico piatto Euro-Cart Iris dorso 3 cm viola - formato A4 - CPRIO03ELPVI IRIS,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+122104,Cono Street in carta paglia Pigna Envelopes Kami 80gr + 9gr PE - 25x25 cm Conf. 250 pz - 0250025,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+122105,Pizza Street in carta paglia Pigna Envelopes Kami 80gr + 9gr PE - 18x18 cm Conf. 250 pz - 0250026,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+122287,Batterie alcaline Duracell Plus100 Mezzatorcia C - MN1400 - blister da 2 - DU0301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+122889,Buste impermeabili magnetiche DURABLE A4 - trasparente - conf. 5 pezzi - 5018-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+122891,Buste impermeabili con fascette DURABLE A3 trasparenti conf. 5 pezzi - 5028-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+122892,Cestino con sensore DURABLE NO TOUCH argento metallizzato - capienza 35 Lt - 3423-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+123231,Stampante per tessere Durable DURACARD® ID 300 - 1 stampante + 1 starter kit (nastro colori + 100 tessere) - 8910-00,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+123232,Nastro per Durable DURACARD® ID 300 a colori 8911-22,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123234,Kit di stampa per Durable DURACARD® ID 300 - 1 nastro + 100 tessere - 8913-00,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123235,"Tessere neutre bianche per Durable DURACARD® ID 300 - 0,50 mm - conf. 100 tessere - 8914-02",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+123335,"Dispenser autocut Universus antibatterico Defend Tech 33,3 x 32,1 x 22,6 cm Papernet Manuale - 419271",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123336,"Dispenser autocut no touch Universus antibatterico con Defend Tech 33,3 x 32,1 x 22,6 cm Papernet Elettronico -",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123337,"Dispenser antibatterico con adattatore Papernet Defend Tech per asciugamani piegati a C e Z bianco - 33,6x30x14,5 cm",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123338,"Dispenser antibatterico con adattatore Papernet Defend Tech per asciugamani piegati a C e Z  nero - 33,6x30x14,5 cm",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+123340,"Dispenser antibatterico per carta igienica Maxi Jumbo Defend Tech - 34,5x34,5x14,8 cm Papernet nero - 417205",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+123343,"Dispenser antibatterico per carta igienica interfogliata Defend Tech - 26,5x16,5x13,5 cm Papernet bianco",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+123346,"Dispenser Centerfeed per asciugamani antibatterico a sfilo centrale - 30x22,5x22,5 cm Papernet nero - 417208",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123348,"Dispenser antibatterico per sapone in schiuma Papernet Defend Tech bianco 22 x 11,6 x 13,9 cm - capacità 0,5 L - 416150",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123350,"Dispenser antibatterico No Touch per cartuccia di sapone in schiuma Defend Tech - 25x12x13,5 cm Papernet bianco -",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123385,Fogli protocollo Blasetti A4 120 g/m² - bianco - risma da 100 fogli - 7149,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+123485,Cornice espositiva DURAFRAME® POSTER A2 Durable - nero 5053-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123487,Cornice espositiva DURAFRAME® POSTER 50x70 cm Durable - nero 5054-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123488,Cornice espositiva DURAFRAME® POSTER 50x70 cm Durable - argento metallizzato 5054-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123634,Cordoncino in tessuto ECO con moschettone Durable Nero conf. 10 pz  - 8240-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+123640,Nastro antiscivolo adesivo DURALINE® GRIP+ 50mm - nero Durable 1096-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123641,Nastro antiscivolo adesivo DURALINE® GRIP+ 25mm - giallo/nero Durable 1095-130,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123645,Supporto universale da parete per tablet e smartphone VISIOCLIP Durable carbone 8939-58,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+123646,Supporto universale regolabile per tablet e smartphone RISE Durable 8940-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+123650,Espositore da pavimento INFO STAND BASIC antracite Durable A3 5013-57,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123652,Tasca porta documenti A4 statica Durable confezione Singola retail 5015-57,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+123655,Cassettiera in plastica di alta qualità VARICOLOR® Durable 5 cassetti 7605-27,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+123656,Cassettiera in plastica di alta qualità VARICOLOR® Durable 10 cassetti 7610-27,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+124205,Distruggidocumenti uso personale LX45 - P-4 - 17 L - taglio a frammenti 4x37 mm Fellowes Powershred®nero - 4400501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+124207,Distruggidocumenti uso personale LX85 - P-4 - 19 L - taglio a frammenti 4x40 mm Fellowes Powershred® nero - 4400801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+124208,Distruggidocumenti automatico AutoMax 80M - P-4 - 17 L - taglio a microframmenti 4x12 mm Fellowes nero,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124215,Termocopertina trasparente A4 per rilegatura termica in PVC - 150 gr/mq - Fellowes dorso 6 mm - conf. 100 pezzi,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124216,Termocopertina trasparente A4 per rilegatura termica in PVC - 150 gr/mq - Fellowes dorso 8 mm - conf. 100 pezzi,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124217,Plastificatrice a caldo Amaris 6 rulli - formato A3 Fellowes bianca 8058201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+124383,Batterie a moneta al Litio 3V. Blister da 2 pile. Duracell litio 2016 DU20B2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+124384,Batterie a moneta al Litio 3V. Blister da 2 pile. Duracell litio 2025 DU21B2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+124564,Gift Box marcatore a tempera punta media colori assortiti Uni Posca tappo barattolo verde - M 84008578,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+124565,Gift Box marcatore a tempera punta media colori assortiti Uni Posca tappo barattolo oro - M 84008516,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+124566,Gift Box marcatore a tempera punta media colori assortiti Uni Posca tappo barattolo azzurro - M 84008639,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124568,Gift Box marcatore a tempera punta media colori assortiti Uni Posca tappo barattolo bronzo - M 84008691,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+124841,Penna stilografica ricaricabile Pilot Explorer inchiostro blu - fusto bianco 006495,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124956,"Dorsi plastici per rilegatura manuale Fellowes bianco 29,7 cm - diametro 3 mm conf. 50 pezzi - D103BI",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+124995,Bobina strofinacci industriali 2 veli pura cellulosa STRONG EXTREMA 2000 2 Lucart 2000 strappi - conf. 2 rotoli,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+125279,Portabadge trasparente Durable no logo - conf 50 pz - 8950-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+125361,Cornice Duraframe Durable A5  conf. 10 pz - 4881-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+125362,Cornice espositiva Durable Duraframe® A4 236x323 blu conf. 10 pz - 4882-07,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+126065,Blocco registro IVA dei Corrispettivi O.C.L. 12x2 copie autoricalcanti - 24x30 cm - 0501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128179,Distruggidocumenti manuale Leitz IQ P4 Home Office - 23 L - bianco - 80090100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128180,Distruggidocumenti manuale Leitz IQ P4 Office - 23 L - bianco - 80030000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128181,Distruggidocumenti automatico Leitz IQ P4 AutoFeed 50 ff Small Office - 20 L - bianco - 80350000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128183,Distruggidocumenti manuale Leitz IQ P4 Protect 6X - 10 L - bianco - 80900000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128264,Cornice espositiva Durable DURAFRAME® formato A4 - conf. 2 pz - giallo - 4872-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128265,Cornice espositiva Durable DURAFRAME® MAGNETIC in PPL formato A4 in conf. 5 pz giallo - 4869-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128266,Cornice espositiva Durable DURAFRAME® MAGNETIC in PPL formato A4 in conf. 5 pz verde - 4869-05,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128268,Espositore da pavimento Durable con cornice a scatto in alluminio formato A3 4799-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128269,Buste orizzontali per identificazione Durable Hard Cover con aletta A4 (297x210 mm) conf. 10 pz - 1163-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128272,Buste per identificazione Durable Hard Cover con bande magnetiche 210x148 mm in conf. 10 pz - 1198-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128274,Tasca porta documenti magnetica Durable formato A4 grigio antracite in conf. 5 pz - 4007-58,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128275,Portanome autolaminante Durable Eurobadge trasparente 54x90mm in conf. 25 pz - 8149-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128276,Cornice espositiva Durable DURAFRAME® formato A3 nero in conf. 6 pz - 4883-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128278,Cornice espositiva Durable DURAFRAME® formato A3 blu in conf. 6 pz - 4883-07,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128279,Buste impermeabili adesive Durable trasparenti formato A3 in conf. 5 pz - 5017-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128280,Buste impermeabili magnetiche Durable trasparenti formato A3 in conf. 5 pz - 5019-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128282,Coperchio per portarifiuti Durable DURABIN 90 L grigio - 1800475050,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128283,Coperchio per bidone portarifiuti Durable DURABIN 60 L verde - 1800500020,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128310,"Struttura regolabile per scrivanie Fellowes Levado 152,56x69,85xH.62,23 cm grigia - 9708601",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128311,"Struttura regolabile per scrivanie Fellowes Levado 152,56x69,85xH.62,23 cm bianca - 9747001",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128312,Piano scrivania bianco Fellowes Levado 120x80 cm - 7032301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128313,Piano scrivania bianco Fellowes Levado 140x80 cm 9870001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128314,Piano scrivania bianco Fellowes Levado 160x80 cm 9870101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128315,Piano scrivania bianco Fellowes Levado 180x80 cm - 9870201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128316,Piano scrivania grigio Fellowes Levado 140x80 cm - 9870301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128317,Piano scrivania grigio Fellowes Levado 160x80 cm - 9870401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128318,Piano scrivania grigio Fellowes Levado 180x80 cm - 9870501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128319,Piano scrivania acero Fellowes Levado 120x80 cm 7032201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128320,Piano scrivania acero Fellowes Levado 140x80 cm 9870601,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128321,Piano scrivania acero Fellowes Levado 160x80 cm 9870701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128322,Piano scrivania acero Fellowes Levado 180x80 cm 9870801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128323,Piano scrivania quercia Fellowes Levado 140x80 cm - 9870901,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128324,Piano scrivania quercia Fellowes Levado 160x80 cm - 9871001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128325,Piano scrivania quercia Fellowes Levado 180x80 cm - 9871101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128326,Piano scrivania noce Fellowes Levado 140x80 cm - 9871201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128327,Piano scrivania noce Fellowes Levado 160x80 cm - 9871301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128328,Piano scrivania noce Fellowes Levado 180x80 cm 9871401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128568,Espositore 240 pennarelli Stabilo Pen 68 tratto 1 mm assortiti 68/240,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128571,Espositore 300 evidenziatori Stabilo Boss Original 2-5 mm - colori assortiti - IT70/300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128572,Espositore 45 evidenziatori Stabilo Boss Original 2-5 mm - colori assortiti - 70/45-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128592,Espositore 100 evidenziatori Stabilo Swing Cool Pastel  - colori assortiti - 275/100-8-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128603,Evidenziatori Swing Cool Pastel Stabilo conf. 8 colori assortiti 275/8-08-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128622,"Fineliner Stabilo Point 88® 0,4 mm arancione pastello 88/25",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128634,"Fineliner Stabilo Point 88® 0,4 mm bruno 88/45",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128637,"Espositore 480 fineliner Stabilo Point 88® 0,4 mm - colori assortiti - 88/480-01",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128648,"Fineliner Stabilo Point 88® 0,4 mm conf. 66 colori assortiti 88/66-031",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128651,"Espositore 80 fineliner Stabilo Point 88® 0,4 mm - colori assortiti - 88/80-01",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128668,"Fineliner Stabilo Point 88® 0,4 mm conf. 20 colori assortiti 8820-03  -14",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128673,"Fineliner Stabilo Point 88® 0,4 mm conf. 3 pz blu B-14827-10",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128702,Matite colorate Stabilo Woody 3 in 1 punta larga conf. 6 pz Arty line colori assortiti - 880/6-1-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128728,"Penna Stabilo OHPen universal Superfine 150 pezzi (S) 0,4 mm IT841-2-3/150",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128747,Pennarelli Stabilo Pen 68 tratto 1 mm verde muschio 68/37,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128761,Pennarelli Stabilo Pen 68 tratto 1 mm malva chiaro 68/62,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128763,Pennarelli Stabilo Pen 68 tratto 1 mm ambra 68/65,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128773,Espositore 60 pennarelli Stabilo Pen 68 tratto 1 mm metallic - colori assortiti - 68/60-8-4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128774,Espositore 80 pennarelli Stabilo Pen 68 tratto 1 mm - colori assortiti - 68/80-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128787,Pennarello Stabilo Arty Line Pen 68 brush punta a pennello conf. 30 colori assortiti - 568/30-31-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128813,Temperamatite a 3 fori Stabilo Easy con serbatoio per destrimani - conf. 3 pezzi - 4502/2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128832,"Marcatore multisuperficie Pilot Pintor a base d'acqua punta in fibra 4,5 mm argento - 002377",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128833,"Marcatore multisuperficie Pilot Pintor a base d'acqua punta in fibra 4,5 mm rosa metallizzato - 002378",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128848,"Marcatore multisuperficie Pilot Pintor a base d'acqua punta in fibra 4,5 mm azzurro - 002394",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128919,Espositore 5 balaustroni Faber-Castell Factory neon colori assortiti - 174342,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128927,Espositore 24 gomme in vinile Faber-Castell TRI - colori assortiti - 182334,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128930,Espositore 10 gomme Jumbo Faber-Castell Grip 2001 grigio - 187100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128948,Matite acquerellabili Faber Castell Albrecht Dürer colori assortiti - conf. 36 pezzi - 117536,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128950,Matite colorate Faber-Castell Black Edition - colori assortiti - astuccio in metallo - conf. 24 pezzi - 116425,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128951,Matite colorate Faber-Castell Black Edition - colori assortiti - astuccio in metallo - conf. 36 pezzi  - 116437,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128953,Matite colorate Faber-Castell Black Edition - colori assortiti - astuccio in cartone - conf. 50 pezzi - 116450,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128955,Matite colorate Faber-Castell Sparkle - colori pastel assortiti - conf. 12 pezzi - 201910,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128958,Matite colorate Faber-Castell Colour Grip astuccio di metallo - colori assortiti - conf. 12 pezzi - 112413,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128966,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosa carne chiaro - 110132",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128967,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - marrone cannella - 110189",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128968,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - siena bruciata - 110283",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128970,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - grigio payne - 110181",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128971,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - terra d'Umbria bruciato - 110280",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+128974,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - caput mortuum viola - 110263",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128975,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - seppia scura - 110175",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128976,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - caput mortuum - 110169",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128977,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso veneziano - 110190",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128979,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi Faber-Castell terra d'Umbria naturale -",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128980,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - Marrone van-Dyck - 110176",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128983,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde terra giallastro - 110168",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128986,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - blu prussia - 110246",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+128987,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde oro - 110268",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128988,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde caldo - 110274",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+128990,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - torrone - 110178",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128991,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - ocra chiara - 110183",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128993,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - grigio caldo II - 110271",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+128996,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde terra - 110172",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128999,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - sanguigno - 110188",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129000,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso indiano - 110192",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129001,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde caldo I - 110270",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129003,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso scarlatto - 110118",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129004,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosa carne scuro - 110130",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129008,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - giallo cadmio - 110107",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129012,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - turchese cobalto chiaro - 110154",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129014,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso  scarlatto intenso - 110219",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129018,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - oltremare - 110120",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129021,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde cobalto intenso - 110158",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129022,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde primavera - 110170",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129023,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - carminio bruciato - 110193",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129027,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi Faber-Castell malva - 110249",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129029,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rame - 110252",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129030,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - blu ftalico medio - 110152",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129031,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde di hooker - 110159",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129032,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde cromo ossido opaco - 110174",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129033,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi Faber-Castell fucsia - 110123",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129035,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - viola porpora - 110136",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129036,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosa porpora medio - 110125",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129037,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - cremisi - 110134",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129038,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - viola - 110138",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129040,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - blu ftalico chiaro - 110145",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129041,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - viola manganese - 110160",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129042,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde ftalico - 110161",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129043,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde ginepro - 110165",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129049,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde caldo IV - 110273",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129052,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - carminio rosato - 110124",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129055,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - oltremare chiaro - 110140",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129056,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - turchese azzurro - 110149",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129058,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso cadmio medio - 110217",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129059,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - grigio freddo VI - 110235",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129061,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - giallo cromo chiaro - 110106",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129063,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso viola chiaro - 110135",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129064,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - viola blu - 110137",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129065,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - rosso robbia - 110142",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129066,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde ftalico chiaro - 110162",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129068,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - giallo cromo scuro - 110109",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129070,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - arancione cadmio - 110111",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129071,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde foglia - 110112",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129073,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - turchese cobalto - 110153",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129074,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - verde chiaro - 110171",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129076,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - cremisi alizarina - 110226",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129077,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - argento - 110251",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129078,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm conf. 6 pezzi - giallo cadmio chiaro - 110105",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129083,"Matite colorate permanenti Faber Castell Polychromos mina 3,8 mm box similpelle assortiti conf. 36 pezzi - 110038",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129099,Astuccio 10 mine H Faber-Castell TK 9071 2 mm - 127111,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129108,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 6 pezzi - Manga set - 167124,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129109,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 4 pezzi - Metallic - 167304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129111,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 4 pezzi - Manga set nero - 167132,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129115,Penna punta in fibra Faber-Castell Ecco Pigment tinta pigmentata - punte assortite - conf. 4 pezzi - 167004,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+129122,Set metallo Faber Castell Monochrome belle arti large conf. 33 elementi - 112977,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129181,Penna a sfera a scatto Pilot Acroball 1000 1 mm colore oro rosa in confezione regalo - 011255,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129182,Penna a sfera a scatto Pilot Acroball 1000 1 mm colore blu metallico in confezione regalo - 011252,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129183,Penna a sfera a scatto Pilot Acroball 1000 1 mm colore rosa in confezione regalo - 011254,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129477,Album musica Favini Albomusica 6 pentagrammi - 8 fogli 17x24 cm - conf. 25 pezzi - A138445,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129486,Carta canvas Favini Calligraphy buste per carta da lettere da stampare 100 g/m² 11x22 25 buste cm avorio - A57Q414,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+129487,Carta canvas Favini Calligraphy buste per carta da lettere da stampare 100 g/m² 12x18 25 buste cm avorio - A57Q417,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129488,Carta canvas Favini Calligraphy buste per carta da lettere da stampare 100 g/m² 12x18 25 buste cm bianco - A570417,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+129489,Carta colorata Favini Rismaluce colori forti 200 g/m² A4 - risma da 125 ff blu cobalto - A672114,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129491,Carta colorata Favini Rismaluce colori forti 200 g/m² A4 - risma da 125 ff deserto - A677104,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129514,Carta colorata Favini Rismaluce colori forti 90 g/m² A4 - risma da 300 ff pietra - A665314,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129522,Carta colorata Favini Rismacqua colori tenui 200 g/m² A4 - risma da 50 fogli salmone - A695544,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129530,Carta colorata Favini Rismacqua colori tenui 90 g/m² A4 - risma da 100 fogli salmone - A695144,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129533,Carta colorata Favini Rismacqua colori tenui 90 g/m² A4 - risma da 300 fogli salmone - A665304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129547,"Biglietti augurali con busta Favini Burano 7,2x11 cm - conf. 100 pz - scarlatto - A57C141",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+129548,Biglietti augurali con busta Burano 9x14 cm in conf. 100 avorio - A57Q174,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+129549,Biglietti augurali con busta Burano 9x14 cm in conf. 100 scarlatto - A57C174,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+129576,Carta colorata Favini Circolor 100% riciclata 160 g/m² A4 - risma da 250 fogli verde menta - A74P324,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129593,Carta colorata Favini Le Cirque A4 160 g/m² colori forti - risma da 250 fogli oro - A74H304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129598,Carta colorata Favini Le Cirque A4 160 g/m² colori tenui - risma da 250 fogli lilla - A749304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+129600,Carta colorata Favini Le Cirque A4 160 g/m² colori tenui - risma da 250 fogli salmone - A745304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+129666,Espositore 120 fineliner Staedtler Pigment Liner tratti assortiti - 308 CA120,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+129672,Espositore 10 temperamatite Staedtler in colori assortiti 2 fori + serbatoio - 512 006,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130028,Cartella in presspan a tre lembi con elastico a fettuccia Esselte C44 - 25x35 cm giallo - conf. 10 pz,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+130035,Cartellina a L in PVC Esselte Crystal A4 blu - conf. 25 pz - 55435,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+130036,Cartellina a L in PVC Esselte Crystal A4 giallo - conf. 25 pz - 55431,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130038,Cartellina a L in PVC Esselte Crystal A4 conf. da 25 pezzi Esselte verde - 55436,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130052,Cartelle sospese Esselte Orgarex Kori Lateral - 33 cm fondo U - conf. 25 pz - 22213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130055,Cartelle sospese Esselte ORGAREX KORI VERTICAL 33 cm conf. da 25 pezzi fondo V - 10202,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+130062,Cestino gettacarte Esselte Basko 15 L - 12663,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+130101,Plastificatrice a caldo a 4 rulli Leitz iLam Office PRO A3 - 75180084,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+130163,Espositore 12 astucci Pigna Monocromo Eva Collection colori assortiti - 0231206,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130576,Matite colorate Giotto Supermina in scatola di metallo conf. 46 colori assortiti + 4 accessori - F237500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+130596,Penna a sfera a scatto Tratto Matic Nature in conf. da 12 rosso F824412,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130613,Set creativo Giotto Art Lab How To Create Manga F582300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+130653,Tempera Giotto Extra ultrafine in tubetto 12 ml - in vetrinetta da 144 colori assortiti - F35250000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130672,Tempera pronta Giotto Extra Quality in flacone 500 ml rosa - F532806,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130690,Tempera pronta Giotto metal in flacone 250 ml oro metallizzato - F53140100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130696,Tempera pronta Giotto School Paint in flacone 1 L magenta - F535510,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130924,Espositore modulare 108 evidenziatori Tratto Video - colori assortiti - F893900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130926,Espositore modulare 288 penne Tratto Pen punta sintetica - colori assortiti - F832800,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130928,Espositore 432 penne Tratto Pen punta sintetica - colori assortiti - F832900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+130945,Matite colorate Giotto Mega in conf. 108 colori assortiti F523500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+130946,Matite colorate Giotto Stilnovo in conf. da 192 colori assortiti - F523400,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+130948,Matite colorate Giotto Stilnovo Maxi in conf. 12 pezzi colori assortiti - F225900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+130981,Pennarelli Giotto Decor Materials in school pack da 48 colori assortiti F524600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+131206,Rubrica cartonata Blasetti a fogli fissi - 1R - 70 g/m2 A5 - 288 fogli 1371,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131211,Biglietti augurali con busta Blasetti - bianco in conf. 100 pz - 90x140 mm 533,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131230,Busta a sacco Blasetti Monodex Avana con 3 soffietti - 100 g/m² - in conf. 250 buste - 190x260 mm - 840,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+131233,Busta a sacco Blasetti Monodex Avana con 3 soffietti - 120 g/m² - in conf. 250 buste - 300x400 mm - 843,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131234,Busta a sacco Blasetti Self 100 g/m² bianco - 30x40 cm - conf. 500 pz  - 637,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131235,Busta a sacco Blasetti Self bianco - 80 g/m² - in conf. 500 buste - 160x230 mm 625,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131241,Busta a sacco Blasetti Self con 3 soffietti 120 g/m² bianco - 30x40 cm - conf. 250 pz - 817,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+131243,"Busta bianca Blasetti Campidoglio 80 g/m2 in conf. 500 buste 7,5x11,2 cm 080",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+131244,Busta bianca Blasetti Campidoglio 80 g/m2 in conf. 500 buste 9x14 cm 082,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131247,Busta bianca Blasetti Embassy 120 g/m2 in conf. 250 buste 160x230 mm 054,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+131259,Busta gommata posta Blasetti giallo 80 g/m² - conf. da 500 buste - 120x180 mm 171,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+131263,Busta senza soffietti Blasetti Mondex bianco - 80 g/m2 - in conf. 500 buste - 230x330 mm - 801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131265,Busta senza soffietti Blasetti Mondex bianco - 100 g/m2 - in conf. 500 buste - 300x400 mm - 803,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+131277,Quaderno per bambini Blasetti Jumbo - 20 ff bianchi - 100 g/m2 - 43x60 cm 1424,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131799,Buste con bottone Lebez verticale in conf. da 12 pezzi - formato A5 colori assortiti - 80198,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+131911,Registratore protocollo Esselte Oxford Green con custodia 23x33 cm 100% carta riciclata dorso 8 cm - 397850501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+131955,"Supporto per monitor Fellowes Breyta? 8,2x35,4x30,4 cm regolabile bianco 100016561",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+131956,"Poggiapiedi Fellowes Breyta? regolabile 9,8x49x36 cm nero 100016562",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+131957,"Poggiapiedi Fellowes Breyta? regolabile 9,8x49x36 cm bianco 100016563",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+131958,"Supporto per laptop Fellowes Hana? ergonomico 10,2 x 34,2 x 39,6 cm nero 100016994",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+131959,"Supporto per laptop Fellowes Hana? ergonomico 10,2 x 34,2 x 39,6 cm bianco 100016995",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131960,"Supporto per monitor Fellowes Hana? LT 10,2x56x22,2 cm nero 100016996",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+131961,"Supporto per monitor Fellowes Hana? LT 10,2x56x22,2 cm bianco 100016997",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+131962,Poggiapiedi regolabile Fellowes Hana? LT 17.5 x 45 x 36 cm nero 100016998,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131963,Poggiapiedi regolabile Fellowes Hana? LT 17.5 x 45 x 36 cm bianco 100016999,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+131965,Distruggidocumenti uso personale Fellowes LX65 taglio a frammenti 4x40 mm nero - 4400701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132040,Foglietti Post-it® giallo neon 100 fogli/blocchetto 76x76 mm - conf. 6 pz blisterati singolarmente - 75011N,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132060,Cassettiera Durable Idealbox Pro 7 cassetti 250x365xH.322 mm rosso 7763-03,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132062,Supporto per tablet e smartphone Durable Twist Table regolabile nero da tavolo - 8941-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132067,"Portamemo da scrivania Durable Eco 10x10xH.10,5 cm nero - 7758-01",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132069,Portacataloghi Durable Eco 3 scomparti 215x210xH.165 mm nero - 7761-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132076,"Desk set evidenziatori Q-Connect Pastel 1,5-5 mm - colori pastello assortiti conf. 23 pezzi - KF17782",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132201,"Marcatore a tempera Uni Posca Poscapen ultra-fine 0,7 mm conf. 9 pz rosso M 84020266",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132272,Memoria SSD esterna portatile Verbatim Store'n'Go USB 3.2 nera 500 GB 53250,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132273,Memoria SSD esterna portatile Verbatim Store'n'Go USB 3.2 nera 1 TB 53230,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132531,Alimentatore 2 porte USB-C 65W Trust Maxo - colore bianco - 25381,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132532,Alimentatore 2 porte USB-C 65W Trust Maxo - colore nero - 25380,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132533,Auricolari ENC bluethooth Trust Yavi bianco 25173,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132534,Auricolari ENC bluethooth Trust Yavi nero 25298,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132536,Auricolari ENC bluethooth Trust Yavi bianco-con gommino 25172,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132538,Auricolari ENC bluethooth Trust Yavi porpora-con gommino 25297,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132539,Borsa per laptop fino a 16'' Trust Lisboa nero 25246,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132540,Caricabatterie Trust MAXO USB-C nero 100W 24818,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132549,Mouse ultrasottile wireless ricaricabile Trust Puck - ricevitore USB A 2.0 azzurro - 24126,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132551,Mouse wireless multi-dispositivo Trust Ozaa - bianco - 24935,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132556,Powerbank ad alta capacità da 20.000 mAh Trust Primo nero 24676,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132558,Powerbank ultrasottile da 5.000 mAh Trust Primo nero 24679,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132560,Powerbank ultrasottile da 10.000 mAh Trust Primo - nero - 24678,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132561,Powerbank ultrasottile da 10.000 mAh Trust Primo - verde - 25029,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132572,Zaino per laptop Trust Lisboa capacità fino a 16'' eco-friendly - nero - 25244,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132573,Zaino per laptop Trust Lisboa capacità fino a 16'' eco-friendly - verde - 25243,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132638,Blocchi spiralati Blasetti Colorclub formato A5  carta 70 g conf. 6 pezzi assortiti rigatura 4 mm - 6520,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+132658,Mobiletto multifunzione Durable 74/59 aperto bianco 528x748x592 mm - 3113-02,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132659,Stazione porta capsule Durable Coffee Point Box S 280x95x356 mm antracite - 3383-58,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132660,Mobiletto multifunzione versatile Durable System 48 - 600x477x432 mm argento/faggio - 3710-124,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132661,Mobiletto multifunzione versatile Durable System 88 - 750x879x432 mm grigio - 3711-10,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132662,Cornice espositiva Durable Duraframe® A4 236x323 mm rosso - conf. 10 pz - 4882-03,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132664,"Busta impermeabile A4 adesiva Durable 247x325x0,6 mm trasparente - conf. 5 pz - 5016-19",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132667,Braccio porta 1 monitor da tavolo Durable Select grigio 429x448x100 mm 5094-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132668,Braccio porta 1 monitor da tavolo Durable Select Plus con braccio estensibile 530x450x108 mm - 5096-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132669,Braccio porta 2 monitor da tavolo Durable Select Plus con braccio estensibile 1086x450x145 mm - 5097-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132670,Cassettiera Durable Varicolor® MIX 4 grigio 280x292x356 mm - 7624-27,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132671,Cassettiera Durable Varicolor® MIX 4 SAFE con serratura - grigio 280x292x356 mm - 7626-27,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132672,Cassettiera Durable Varicolor® MIX 7 280x292x356 mm - 7627-27,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132674,Portanome Durable Click Fold 54x90 mm in PPL trasparente con magnete - 8215-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132678,Supporto per tablet da tavolo Durable Tablet Holder Table XL 155x242x183 mm - 8937-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+132966,"Busta coprenti con soffietto Sei Rota Atla GS - 21x29,7 cm - privacy - colore bianco opaco - 662606",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132970,Buste in PP buccia Sei Rota Atla 60 - basso spessore trasparente 22x30 cm - conf. 50 buste - 662208,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+132971,Buste in PP buccia Sei Rota Atla 100 - medio spessore trasparente 23x33 - conf. 25 buste - 662310,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132981,Copertine per la rilegatura Sei Rota Video ROC formato A4 colore blu - conf. 100 pezzi - 52142807,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+132991,Portalistini UNO TI Sei Rota ad album PP buccia - A4 - 36 interni - blu - 55243607,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133005,"Raccoglitore Sei Rota Nettuno - 4 anelli a R 30 mm - A4 - dorso 3,5 cm - colore rosso - 36803142",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133012,"Raccoglitore Sei Rota Nettuno - 2 anelli a R 30 mm - A4 - dorso 3,5 cm - conf. 10 pz colori assortiti - 36773199",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133282,Bicchiere per pennelli con coperchio Lebez - conf. 8 pezzi - 80124,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133314,Portadepliant in acrilico con base a L - angoli magnetici Lebez A4 - verticale - trasparente - 7003,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133332,Dorsini tondi in PVC Lebez - dorso 4 mm - colore blu - 871-BL,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133338,Dorsini tondi in PVC Lebez - dorso 6 mm - colore rosso - 872-R,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133340,Dorsini tondi in PVC Lebez - dorso 10 mm - colore blu - 874-BL,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133342,Dorsini tondi in PVC Lebez - dorso 10 mm - colore rosso - 874-R,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133346,Dorsini tondi in PVC Lebez - dorso 15 mm - colore rosso - 875-R,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133354,Espositore 228 pennelli in pelo di pony Lebez - punte assortite da 1  a 12 - 1984L,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+133355,Espositore 324 pennelli Lebez punte e materiali assortiti - 81007,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133358,Etichette con filo in cartoncino bianco Lebez formato 11x29 mm - conf. 1000 pezzi - A385,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133359,Etichette con filo in cartoncino bianco Lebez formato 13x20 mm - conf. 1000 pezzi - A387,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133361,Etichette con filo in cartoncino bianco Lebez formato 15x24 mm - conf. 1000 pezzi - A388,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133370,Forbici Lebez Zig-Zag con 4 lame acciaio inox intercambiabili da 16 cm - colori assortiti tenui - 4333L,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133381,Blister 10 lame segmentate Olfa 100x18 mm per cutter - LB10B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133412,Pennello punta tonda Lebez - pelo di bue - serie N.10 - conf. 12 pz 1557/10B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133414,Pennello punta tonda Lebez - pelo di bue - serie N.14 - conf. 12 pz 1557/14B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133428,Portablocco City Time Dual A4 in tessuto tecnico - 26x34 cm - nero - 61500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133445,Pressini fermafogli Lebez 38x150 mm - colori assortiti - conf. 250 pezzi - 361-ASS-B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+133880,Espositore da banco 80 marcatori a tempera Uni Posca colori assortiti - punta PC1 - M PC1MR 80P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133881,Espositore da banco 60 marcatori a tempera - colori assortiti punta PC5 - M PC5M 5D,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133887,Marcatore Uni Posca punta large colore oro M PC8K ORO,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+133996,Gessi tondi non polverosi Lebez Ø 9 mm colori assortiti - 20 conf. da 12 gessetti - 515,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+134003,Temperatatite lattina Lebez con serbatoio 2 fori - conf. 24 pz - 334,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134021,Foglietti riposizionabili  Post-it® cubo in 3 colori brillanti assortiti formato fumetto - 2007 SP,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134033,Astuccio in metallo 6 matite Faber-Castell 9000 - gradazioni assortite - 119063,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134038,Confezione matite Faber-Castell Pitt Pastel - colore sanguigno - conf. 6 pezzi - 112288,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134040,Pitt Artist Pen brush Faber-Castell colore avorio - conf. 10 pezzi - 167403,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134042,Pitt Artist Pen brush Faber-Castell colore grigio caldo I - conf. 10 pezzi - 167570,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134043,Pitt Artist Pen brush Faber-Castell colore grigio caldo III - conf. 10 pezzi - 167472,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134044,Pitt Artist Pen brush Faber-Castell colore grigio caldo IV - conf. 10 pezzi - 167473,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134045,Pitt Artist Pen brush Faber-Castell colore grigio caldo V - conf. 10 pezzi - 167474,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134047,Pitt Artist Pen brush Faber-Castell colore grigio freddo III - conf. 10 pezzi - 167432,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134048,Pitt Artist Pen brush Faber-Castell colore grigio freddo IV - conf. 10 pezzi - 167433,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134051,Pitt Artist Pen brush Faber-Castell colore seppia scuro - conf. 10 pezzi - 167475,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134052,Pitt Artist Pen Faber-Castell fineliner P super fine - colore nero - 167199,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134137,Espositore da banco 470 evidenziatori Stabilo Boss - 30 colori assortiti - IT70/470-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134139,Espositore 120 pennarelli Stabilo Pen 68 Max - 24 colori assortiti - IT768/120-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134142,Pennarello Stabilo Pen 68 Max punta scalpello - conf. 12 pezzi - 768/12-21,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134145,Pennarello Stabilo Pen 68 Max punta scalpello - conf. 20 pezzi - 768/20-31-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134157,Espositore 15 evidenziatori Stabilo Boss - colore nero - 70/15-2-46,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134211,Foglietti Post-it® Popmistic - conf. 6 blocchetti da 100 ff - 76x127 mm - 655-pop,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134217,Espositore 312 pennelli Lebez Syntex in setola sintetica - punte assortite - 81330,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134363,Pennarello Stabilo Point Max - punta nylon - colori assortiti - astuccio da 42 pezzi - 488/42-1-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134364,Espositore da banco 60 pennarelli Stabilo Pen 68 metallic - colori assortiti - 68/60-8-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134374,Espositore da terra 550 evidenziatori Stabilo Boss -  colori assortiti IT70/550-6,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134376,Stabilo Colorful Arty Creative set pastel - conf. 50 pz - 77/6-2-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134386,Stabilo rollerset Arty Edition Point 88 e Pen 68 - conf. 12 pz - colori assortiti - 25/26-06-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134408,Espositore 96 penne a sfera Pilot Frixion Ball Naruto limited edition - colori assortiti - 009701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134415,Espositore 576 matite Staedtler Mars Lumograph - gradazioni assortite - 100 VS4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134418,Espositore da banco 32 articoli Staedtler Noris Jumbo - assortiti - 61 CA NJ,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134551,Espositore 46 evidenziatori Faber-Castell Textliner - colori assortiti - 254653,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134565,Matita Faber-Castell Jumbo Grip - conf. 10 pz - fantasia dinosauri 110922,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134566,Penna a sfera a scatto Faber-Castell Daily Ball XB inchiostro blu - colore fusto lilla - conf. 10 pz - 140688,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134567,Penna a sfera a scatto Faber-Castell Daily Ball XB inchiostro blu - colore fusto blu cielo - conf. 10 pz - 140689,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134568,Penna a sfera a scatto Faber-Castell Daily Ball XB inchiostro blu - colore fusto nero - conf. 10 pz - 140690,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134569,Espositore 40 penne a sfera a scatto Faber-Castell Daily Ball XB inchiostro blu - fusto colori assortiti - 140691,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134572,Matita in grafite Faber-Castell Grip 2001 - conf. 12 pz - colore fusto blu cielo - 517074,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134573,Matita Faber-Castell Jumbo Grip - conf. 12 pz - colore blu cielo 111974,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134574,Portamine Faber-Castell Grip 2010 - conf. 5 pz - colore fusto blu cielo 231028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134579,Temperamatite Faber-Castell grip mini - conf. 10 pz - colore blu cielo 183774,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+134580,Temperamatite Faber-Castell trio grip - conf. 10 pz - colore blu cielo 183874,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134713,Espositore 12 astucci a bustina Pigna monocromo in silicone assortiti 023264600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134772,Espositore 20 gomme eco Staedtler verde oliva 526 80-5,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134773,Espositore 72 matite con gommino Staedtler Noris® HB 122 KP72,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134816,Portalistini Sei Rota Asso in PP liscio 22x30 cm in colori assortiti 80 buste - 57218090,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134817,Portalistini Sei Rota Asso in PP liscio 22x30 cm in colori assortiti 120 buste - 57241290,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134818,Portalistini Sei Rota Asso in PP liscio 22x30 cm in colori assortiti 150 buste - 57241590,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134830,Portanome in PVC rigido Sei Rota Pass 6 ST cordoncino+pinzetta+tasca in conf. da 10 pezzi - nero - 31841700,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134865,Blocco registro IVA dei corrispettivi O.C.L. 24x2 copie - 0503,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134868,"Blocco tascabile prima nota a 2 colonne O.C.L. 10,5x15 cm 20 fogli 0121N",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134894,"Registro scadenzario O.C.L. 21x29,7 cm 24 fogli - 3003",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134899,"Schede a tre colonne O.C.L. formato 21x14,8 cm - 0847",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134902,"Schede rigate O.C.L. formato 21x14,8 cm - 0819",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134956,Album da disegno Giotto Album Kids 200 g conf. 5 pz - A3 - 20 fogli F580500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134961,Espositore Kit 50 articoli Giotto di Natura Back To School 2024 - F960500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134964,Espositore 99 matite colorate Giotto Supermina varie + pennarelli New Turbocolor 209x44x50 cm - F947200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+134965,Espositore 220 penne a sfera Tratto Cancellik - colori assortiti con inchiostro cancellabile - F817700,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134970,Esporitore 558 matite colorate Giotto Supermina F235300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134971,Espositore Giotto 3 display Kit Party Set F313200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134982,Barattoli da banco Faber-Castell Jumbo greep two tone in grafite - conf. 72 pz colori fusto assortiti - 111912,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+134983,Espositore da banco 288 matite in grafite Faber-Castell 9000 - gradazioni assortite - 119061,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+135008,Portamenu' in PP Lebez a 10 tasche - 33x14 cm - nero - 80560N,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+135011,Schermo di protezione da appendere Lebez 66x99 cm 81029,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135012,Schermo di protezione da banco Lebez 55x95 cm 81024,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135026,Libretto scolastico personale O.C.L. 80 pagine - 1203,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+135218,Colla vinilica Vinavil speciale scuola conf. da 10 flaconi da 250 g D0652,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135224,Espositore 30 marcatori permanenti Staedtler Lumocolor® 2 mm - nero - 352-9 CA30,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+135227,Espositore 30 portamine Mars® Micro con 18 astucci mine - assortiti - 775 CA30P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+135465,Espositore 60 penne a sfera Pilot Frixion Ball New Color 0.7 - 10 colori assortiti - Z99742,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+135528,Divisori intercalari Esslete Mylar A4 - conf. 20 ff da 6 tasti colorati cad. - 100168,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+135531,Copertina rigida per rilegatura Leitz Channel ''E'' - 186-225 fogli A4 bianco - conf. 10 pz - 74110001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135533,Batteria ricaricabile Leitz per stampante Icon 70020100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135534,Copertina rigida per rilegatura Leitz Channel ''E'' - 186-225 fogli A4 nero - conf. 10 pz - 74110095,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135542,Cassettiera 4 cassetti Esselte Colour'Breeze grigio/verde 626285,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135544,"Borsa portacomputer Leitz Complete 13,3'' argento 60180084",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135547,Copertina per rilegatura Leitz flessibile 10 mm conf. da 10 bordeaux 74140028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+135549,Copertina rigida per rilegatura Leitz Channel ''G'' - 266-300 fogli A4 bianco - conf. 10 pz - 74130001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135550,Copertina per rilegatura Leitz rigida ''E'' conf. da 10 bordeaux 74110028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135552,Copertina flessibile per rilegatura Leitz Channel ''F'' - 226-265 fogli bianco - conf. 10 pz - 74040001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135555,Copertina flessibile per rilegatura Leitz Channel ''D'' - 151-185 fogli A4 bordeaux - conf. 10 pz - 74020028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+135597,Cartellina con tasca Euro-Cart serie brillante - 200 g - conf. da 25 - 340x260x4 mm - rosso - XCM07FRO,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+135598,Cartella manilla con spillo Euro-Cart 230 g - conf. da 50 pz - 34x25 cm rosa XCM05RS,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135739,Matite colorate Faber-Castell Aqua Goldfaber - conf. 36 pz - colori assortiti - 114639,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+135770,Album da disegno Giotto 2 33x48 cm - 12 ff 125 g - conf.10 pz - ruvido F583200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135836,Distruggidocumenti automatico Leitz Office 150 P4 - taglio a frammenti P-4 4x30 mm - 44 L - 80130000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135837,Distruggidocumenti automatico Leitz Office 300 P4 - taglio a frammenti P-4 4 x 30 mm - 60 L - 80150000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135838,Distruggidocumenti automatico Leitz Office 300 P5 - taglio a frammenti P-5 2x15 mm - 60 L - 80160000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135839,Distruggidocumenti Leitz IQ Home Slim P4 - 80010000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+135871,Album prima nota cassa O.C.L. 50x2 copie - blister da 3 blocchi - 216x305 mm 0131P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+135977,Toner Q-Connect rigenerato HP CE278A nero - KF14937,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+135978,Toner Q-Connect rigenerato Brother TN-2220 nero - KF15455,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+136005,Registratore protocollo Esselte Essentials G75 23x33 cm dorso 8 cm verde chiaro - 390775600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+136198,Dispenser in legno e plastica riciclati Pepernet Simplify white wood per asciugamano piegato C/V - 421337,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+136200,Dispenser in legno e plastica riciclati Papernet Simplify white wood per carta igienica interfogliata - 421334,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+136264,Etichette giallo fluorescente permanenti Tico laser/inkjet 1 et./foglio conf. 70+10 ff OMAGGIO 210x297 mm,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+136273,Pennarelli Giotto TurboPro doppia punta scalpello-pennello - conf. da 15 colori assortiti - F427800,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+136274,Pennarelli Giotto TurboPro doppia punta scalpello-pennello - conf. da 30 colori assortiti - F427900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+136312,Espositore da banco 12 pochette Lebez Fluffy Bunny 4 soggetti assortiti - 81881,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+136313,Espositore da banco 24 penne con cappuccio Lebez Bunny silicon 4 colori assortiti - 81904,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+136398,Copertina flessibile per rilegatura Leitz Channel ''G'' - 266-300 fogli A4 - bordeaux - conf. 10 pz - 74050028,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+136399,Copertina flessibile per rilegatura Leitz Channel ''G'' - 266-300 fogli A4 nero - conf. 10 pz - 74050095,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+136405,Copertina rigida per rilegatura Leitz Channel ''G'' - 266-300 fogli A4 blu - conf. 10 pz - 74130035,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+136406,Copertina rigida per rilegatura Leitz Channel ''F'' - 226-265 fogli A4 nero - conf. 10 pz - 74120095,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+136455,"Espositore 96 penne a sfera cancellabili Pilot Frixion Ball Sticks 0,7 mm + 96 set da 30 stickers in OMAGGIO - 010127",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+136458,Espositore 120 penne roller con inchiostro a gel Pilot Mix Colors colori assortiti - 010158,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+136730,Espositore 36 penne a sfera Lebez Rainbow 4 soggetti assortiti 81895,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+136731,Espositore 24 matite Lebez Unicorn 4 soggetti assortiti 81931,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+136732,Espositore 8 borsette con tracolla Lebez Donuts 4 soggetti assortiti 81922,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+136733,Espositore 40 penne a sfera Lebez Cat Pow 4 soggetti assortiti 81502,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+136734,Espositore da banco 48 Stickers gommati Lebez Fantasy 6 soggetti assortiti A913,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+136737,Espositore 36 penne a sfera Lebez Glass Rose inchiostro blu 81884,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+136738,Espositore 36 penne a sfera Lebez Tulipan inchiostro blu 81495,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+136739,Espositore 36 penne con cappuccio Lebez Woof 4 soggetti assortiti 81900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+136742,Espositore 24 gomme Lebez Woof 3 soggetti assortiti 81903,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+136744,Espositore 36 penne con cappuccio Lebez Flexy Cat 6 soggetti assortiti 81901,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+136745,Espositore 12 pochette in silicone Lebez Joy Pins 3 soggetti assortiti 81850,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+136748,Espositore 12 taschette Lebez Cute Animal 4 soggetti assortiti 81549,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+136749,Espositore 12 taschette Lebez morbidelli 4 soggetti assortiti 81981,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+136750,Espositore 12 taschette silicone Lebez Softy 3 soggetti assortiti 81957,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137018,"Buste trasparenti chiusura grip in LDPE 50 ?m Q-Connect idonee al contatto alimentare  - conf. 1000 pz - 27,5x45 cm",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137043,Espositore 6 astucci 3 zip Giotto Super Crystal collezione Supermina fantasie assortite - F964300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137044,Espositore 6 astucci 3 zip Giotto Catty Candy collezione Supermina fantasie assortite - F963200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137058,Espositore 60 evidenziatori Stabilo Boss® Original Pastel - colori assortiti pastello - 70/60-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137152,Desk set evidenziatori Stabilo Boss® Original 2-5 mm - 8 colori assortiti IT70/8-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137160,Espositore 50 evidenziatori Stabilo Boss® Mini NatureVibes - colori assortiti - 07/50-11-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137171,Sgabello Active Comfort da seduta ergonomico Leitz Ergo grigio chiaro - 370x460x377 mm - 65440085,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137172,Sgabello Active Comfort da seduta ergonomico Leitz Ergo grigio scuro - 370x460x377 mm - 65440089,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137173,Sgabello Active Comfort in piedi ergonomico Leitz Ergo grigio chiaro - 370x610x377 mm - 65450085,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137174,Sgabello Active Comfort in piedi ergonomico Leitz Ergo grigio scuro - 370x610x377 mm - 65450089,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137175,Palla Active da seduta anti rotolamento Ø 65 cm Leitz Ergo grigio chiaro 65420085,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137176,Palla Active da seduta anti rotolamento Ø 65 cm Leitz Ergo grigio scuro 65420089,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137184,Scrivania compatta Sit - Stand elettrica Leitz Ergo bianco - 600x650x800 mm - 65340001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137185,Scrivania compatta Sit - Stand pneumatica Leitz Ergo bianco - 600x650x800 mm - 65360001,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137321,Espositore 19 articoli Tratto Candy Collection colori pastello F814100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137323,Espositore 80 evidenziatori Tratto Video Emotion 8 colori fluo assortiti F838600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137332,Espositore 80 pennarelli Giotto Glitter Candy Collection composto da 10 conf. da 8 colori Candy assortiti - F428500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137335,Matite colorate con punta bicolore Giotto Magic Duo Candy Collection conf. 10 pezzi in astuccio colori pastello,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137337,Espositore 40 gomme Giotto Happy Gomma 4 tonalità di colore F234900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+137375,Espositore 144 matite in grafite Faber-Castell Sparkle Cosmic B 118253,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137376,Espositore 15 balaustroni Faber-Castell Factory Neon colori assortiti 174355,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137377,Espositore 18 temperamatite con serbatoio Faber-Castell fantasia dinosauro e unicorno - 183551,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137379,Espositore 40 penne a sfera ricaricabili Faber-Castell Poly Ball XB colori assortiti - 241144,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137380,Espositore 40 penne a sfera a scatto Faber-Castell Grip 2010 Harmony colori assortiti - 243918,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137408,"Espositore 48 penne roller Pilot G-2 Bubble limited editon punta 0,7 mm - colori fusto assortiti inchiostro blu -",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137409,"Espositore 40 penne a scatto cancellabili Pilot Frixion Ball+ punta 0,7 mm + 1 tester colori assortiti -",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137410,"Espositore 60 penne a scatto cancellabili Pilot Frixion Ball Clicker punta 0,7 mm colori assortiti - Z99740",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137411,Raccoglitore 4 anelli Pigna Jannik Sinner A4 dorso 3 cm - conf. 5 pz - soggetti assortiti - 023347230,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137419,Espositore 70 articoli Giotto - colori assortiti - CONCORSO A PREMI F984200,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137421,Espositore 24 raccoglitori 4 anelli Lebez in PP - A4 Ø 15 mm - colori pastello assortiti - 80981,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137423,Espositore 24 raccoglitori 4 anelli Lebez in PP - A4 Ø 15 mm - colori neon assortiti - 80979,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137427,Espositore 12 temperamatite a 2 fori Lebez in morbida gomma con particolari 3D linea Cutie - 81969,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137430,Espositore 50 astucci Lebez Extra Colours assortiti bauletto e quadrotto - 81470,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137575,"DVD-R SmartDisk Pro Verbatim bianco stampabile - 4,7 GB - conf. 100 pezzi - 69829",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137590,Batterie alcaline Duracell Power Boost Ministilo AAA MN2400 - blister da 8 pezzi - DU0213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137641,Cartuccia Q-Connect rigenerata HP 913A nero - KF13992,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+137646,Toner Q-Connect rigenerato HP 508A (CF361A) ciano - KF14544,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137647,Toner Q-Connect rigenerato HP 508A (CF360A) nero - KF14543,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137648,Toner Q-Connect rigenerato HP 117A (W2072A) giallo - KF11427,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137649,Toner Q-Connect rigenerato Lexmark 50F2000 nero - KF16881,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137650,Toner Q-Connect rigenerato HP 508A (CF362A) giallo - KF14546,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137651,Toner Q-Connect rigenerato HP 508A (CF363A) magenta - KF14545,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,1.0,False,True
+137652,Toner Q-Connect rigenerato HP CF283X (83X) nero - KF18571,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+137654,Toner Q-Connect rigenerato Brother TN-421BK nero - KF11230,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137655,Toner Q-Connect rigenerato Brother TN-421C ciano - KF11231,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137656,Toner Q-Connect rigenerato Brother TN-421M magenta - KF11232,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137657,Toner Q-Connect rigenerato Brother TN-421Y giallo - KF11233,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137662,Toner Q-Connect rigenerato HP 117A (W2073A) magenta - KF11426,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137663,Toner Q-Connect rigenerato HP 117A (W2071A) ciano - KF11425,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137666,Toner Q-Connect rigenerato Lexmark 602H (60F2H00) nero - KF18572,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137936,Espositore 12 metal case da 20 marcatori a tempera Posca fantasie assortite - parte del KIT K00138 - M 84047119,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137937,Espositore vuoto parte del KIT K00138 - ZX ES0579,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137938,Valigetta in metallo Posca Pop Colours da 20 marcatori a tempera - colori assortiti - M POP 20P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137939,Valigetta in metallo Posca Groovy Colours da 20 marcatori a tempera - colori assortiti - M GROOVY 20P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137958,"Penna a sfera a scatto Stabilo Pointball Colorful 0,5 mm assortiti - conf. 4 pezzi - 6033/4",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137959,"Espositore 38 penne a sfera a scatto Stabilo Pointball Colorful 0,5 mm assortiti - 6033/38-1",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137963,Evidenziatori Stabilo Boss Nature Colors Wildflowers Edition 2-5 mm  - conf. 10 pezzi - borgogna - 70/250,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,3.0,False,True
+137966,Espositore 15 evidenziatori Stabilo Boss Nature Colors Wildflowers Edition 2-5 mm assortiti - 70/15-6,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
+137967,"Espositore 133 articoli di scrittura Stabilo di cui 38 Pointball, 15 Boss Original, 40 Point 88 e 40 Pen 68",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+137985,Espositore 9 pochette Giotto Superglam Supermina da 12 pezzi assortiti - F238300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+138336,Lettore di schede ID Trust Smart Card Reader Primo per l'identificazione personale su siti Web e amministrazioni,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
