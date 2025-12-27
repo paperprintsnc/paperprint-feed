@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Paperprint – Catalogo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/style.css">
+  <style>
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 40px;
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      color: #555;
+    }
+    .box {
+      margin-top: 40px;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+    a.card {
+      background: #fff;
+      padding: 30px;
+      width: 260px;
+      border-radius: 10px;
+      text-decoration: none;
+      color: #111;
+      box-shadow: 0 4px 12px rgba(0,0,0,.08);
+      transition: transform .15s ease, box-shadow .15s ease;
+    }
+    a.card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0,0,0,.12);
+    }
+    .small {
+      margin-top: 50px;
+      font-size: 13px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📦 Catalogo Paperprint</h1>
+  <p>Catalogo prodotti generato automaticamente</p>
+
+  <div class="box">
+    <a class="card" href="categorie/">
+      <h2>📂 Categorie</h2>
+      <p>Consulta i prodotti divisi per categoria</p>
+    </a>
+
+    <a class="card" href="prodotti/">
+      <h2>🛒 Prodotti</h2>
+      <p>Elenco completo di tutti i prodotti</p>
+    </a>
+  </div>
+
+  <div class="small">
+    Catalogo generato automaticamente – Paperprint
+  </div>
+
+</body>
+</html>
