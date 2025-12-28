@@ -1,6 +1,8 @@
 SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,has_image
 106949,"Portablocco singolo con molla Sei Rota Superblock ML  21x29,7 cm rosso 29302312",SCARTO_NO_PREZZI_ROW,False,False,False,True,9.0,True,True
+114481,Buste a sacco Pigna Envelopes Competitor strip 80 g/m² 162x229 mm bianco Conf. da 20 buste - 0654555,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 128574,"Astuccio 3 evidenziatori Stabilo Boss Mini by Snooze One - colori assortiti verde, blu e giallo - 07/03-61",SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
+129115,Penna punta in fibra Faber-Castell Ecco Pigment tinta pigmentata - punte assortite - conf. 4 pezzi - 167004,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 137161,Espositore 480 evidenziatori Swing® Cool di cui 220 pezzi singoli e 45 astucci in cartone appendibili - colori assortiti,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 137364,Espositore 96 matite colorate e in grafite Faber-Castell unicorno e dinosauri - 111560,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 137365,Espositore 18 articoli disegno e scrittura Faber-Castell unicorno e dinosauri - 202159,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
@@ -280,7 +282,6 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 114470,Buste a sacco bianche autoad. removibili Pigna Envelopes Competitor strip 80 g/m² 230x330 mm  conf. 500 - 0029481,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 114475,Buste a sacco autoadesive Pigna Envelopes Multi strip kraft avana 100 g/m² 250x353 mm  conf. 500 - 0099076,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 114478,Buste a sacco Pigna Envelopes Multi Strip 30x40 cm avana Conf. 500 pezzi - 0655143,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
-114481,Buste a sacco Pigna Envelopes Competitor strip 80 g/m² 162x229 mm bianco Conf. da 20 buste - 0654555,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 114485,Buste con 2 finestre Pigna Envelopes FLY-Matic 2 80 g/m² 115x230 mm bianco conf. 1000 - 0224302,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 114496,Buste a sacco con soffietto Pigna Envelopes Multi Strip Extra 23+4 x 33 cm avana Conf. 250 pezzi - 0208887,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 114522,Buste con finestra Pigna Envelopes Silver90 90 g/m² 110x230 mm bianco conf. 500 - 0170578,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
@@ -564,7 +565,6 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 129108,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 6 pezzi - Manga set - 167124,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 129109,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 4 pezzi - Metallic - 167304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 129111,Penna inchiostro pigmentato Faber Castell Pitt Artist conf. 4 pezzi - Manga set nero - 167132,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
-129115,Penna punta in fibra Faber-Castell Ecco Pigment tinta pigmentata - punte assortite - conf. 4 pezzi - 167004,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 129122,Set metallo Faber Castell Monochrome belle arti large conf. 33 elementi - 112977,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 129181,Penna a sfera a scatto Pilot Acroball 1000 1 mm colore oro rosa in confezione regalo - 011255,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 129182,Penna a sfera a scatto Pilot Acroball 1000 1 mm colore blu metallico in confezione regalo - 011252,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
@@ -883,4 +883,10 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 137966,Espositore 15 evidenziatori Stabilo Boss Nature Colors Wildflowers Edition 2-5 mm assortiti - 70/15-6,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
 137967,"Espositore 133 articoli di scrittura Stabilo di cui 38 Pointball, 15 Boss Original, 40 Point 88 e 40 Pen 68",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
 137985,Espositore 9 pochette Giotto Superglam Supermina da 12 pezzi assortiti - F238300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+138199,Buste a sacco Blasetti Monodex Avana in carta kraft 80 g/m² - 19x26 cm - conf. 500 pz - 0830,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+138202,Buste a sacco Blasetti Monodex Avana in carta kraft 120 g/m² - 30x40 cm - conf. 500 pz - 0833,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+138204,Buste a sacco Blasetti Monodex Avana in carta kraft 120 g/m² - fondo quadro - 23+4x33 cm - conf. 250 pz - 0934,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+138205,"Buste a sacco Blasetti Monodex Avana in carta kraft 120 g/m² - fondo quadro - 25+4x35,3 cm - conf. 250 pz - 0935",SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+138206,Buste a sacco Blasetti Monodex Avana in carta kraft 120 g/m² - fondo quadro - 30+4x40 cm - conf. 250 pz - 0936,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
+138210,Buste con finestra Blasetti Strip 90 - 90 g/m² bianco - 16x23 cm - conf. 500 pz - 0170,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,2.0,False,True
 138336,Lettore di schede ID Trust Smart Card Reader Primo per l'identificazione personale su siti Web e amministrazioni,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
