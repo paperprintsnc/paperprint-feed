@@ -1,0 +1,106 @@
+/* ============================
+   Paperprint - Product page override
+   Mettere in: docs/assets/custom.css
+   (caricato DOPO style.css)
+   ============================ */
+
+/* 1) Titolo più piccolo + centrato */
+.h1{
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 10px;
+}
+
+/* 2) Riga SKU + categorie: più visibili, bold e colorate */
+.small{
+  font-size: 13px;          /* un filo più grande */
+  font-weight: 750;         /* più “importante” */
+  color: #374151;           /* più leggibile */
+  text-align: center;
+}
+
+/* Link nel breadcrumb/categorie più marcati */
+.small a{
+  font-weight: 850;
+  color: var(--link);
+  text-decoration: none;
+}
+.small a:hover{
+  text-decoration: underline;
+}
+
+/* 3) Layout pagina prodotto: tutto centrato e pulito */
+.hero{
+  justify-items: center;    /* centra i blocchi in griglia */
+}
+
+/* 4) Foto centrata e allineata bene */
+.imgbox{
+  width: 100%;
+  max-width: 360px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imgbox img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 360px;
+  object-fit: contain;
+}
+
+/* 5) Prezzo e disponibilità centrati in colonna */
+.price{
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 8px;
+}
+.availability{
+  display: block;
+  text-align: center;
+  margin-top: 6px;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+/* 6) Bottone WhatsApp centrato */
+.button{
+  justify-content: center;
+}
+.hero .button{
+  margin: 10px auto 0;
+}
+
+/* 7) Descrizione: meglio leggibile (NON tutta centrata) */
+.hero p,
+.hero .p p{
+  text-align: left;
+}
+
+/* 8) Badge/righette sotto (se presenti) centrati */
+.kv{
+  justify-content: center;
+}
+
+/* 9) MOBILE: ancora più “colonna unica” */
+@media (max-width: 520px){
+  .wrap{ padding: 14px; }
+
+  .h1{ font-size: 18px; }
+
+  .small{
+    font-size: 12.5px;
+    font-weight: 750;
+  }
+
+  .imgbox{
+    max-width: 100%;
+    min-height: 220px;
+  }
+
+  .price{ font-size: 19px; }
+}
