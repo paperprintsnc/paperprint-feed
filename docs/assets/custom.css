@@ -1,107 +1,107 @@
 /* =========================================
-   Paperprint - custom.css (OVERRIDES STABILI)
-   Caricato DOPO style.css
+   Paperprint - custom.css (STABILE)
+   Obiettivo:
+   - Sistemare pagina PRODOTTO anche se usa .grid
+   - NON stravolgere le CATEGORIE
+   - Migliorare categorie: immagini/titoli un po' più piccoli,
+     SKU+prezzo un po' più grandi/leggibili
    ========================================= */
 
-/* ---------- Base: piccoli miglioramenti globali (sicuri) ---------- */
-.wrap { padding-top: 16px; }
-.card { overflow: hidden; }
 
-/* Header un filo più ordinato (senza stravolgere layout) */
-.header { gap: 12px; }
+/* -------------------------------------------------
+   1) CATEGORIE / LISTE PRODOTTI (grid cards)
+   - immagini meno grandi
+   - titolo un filo più piccolo
+   - SKU/prezzo un filo più grandi
+   ------------------------------------------------- */
 
-/* ---------- HOME (index) - barra ricerca prodotti ---------- */
-/* Funziona se in home esiste l'input con class="input" (come nel vostro CSS) */
-.header .input,
-.wrap .input {
-  width: min(760px, 100%);
-  display: block;
-  margin: 10px auto 0;
-  padding: 14px 16px;
-  border-radius: 16px;
-  font-size: 15px;
+/* Card: allinea bene contenuti e limita "gigantismi" */
+.grid .card .p{
+  padding: 12px;
 }
 
-/* Rende la barra “sempre disponibile” mentre scrolli (home & pagine lista) */
-.header{
-  position: sticky;
-  top: 0;
-  z-index: 50;
-  background: var(--bg);
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-/* Spazio sotto l'header sticky, così non “schiaccia” i contenuti */
-.header + .card,
-.header + .grid,
-.header + .p,
-.header + .hr{
-  margin-top: 10px;
-}
-
-/* ---------- PAGINE CATEGORIA / LISTA (grid) - evita foto enormi ---------- */
-.grid .imgbox{
-  min-height: 190px;
-}
-.grid .imgbox img{
-  max-height: 220px;
-}
-
-/* Titolo card: leggibile ma non “gigante” */
+/* Titolo card (di solito .h2 o link dentro): un po' più contenuto */
 .grid .h2{
+  font-size: 15px;
   line-height: 1.25;
 }
 
-/* ---------- PAGINA PRODOTTO (solo quando c'è .hero) ---------- */
-/* Titolo prodotto: più piccolo e centrato */
-.hero .h1{
+/* SKU e testi piccoli: più leggibili */
+.grid .small{
+  font-size: 12.5px;
+  color: #4b5563;
+}
+
+/* Prezzo nelle card: più visibile (ma non enorme) */
+.grid .price{
+  font-size: 15px;
+  font-weight: 850;
+}
+
+/* Box immagine nelle card: più compatto */
+.grid .imgbox{
+  min-height: 170px;
+  padding: 8px;
+}
+.grid .imgbox img{
+  max-height: 210px;
+}
+
+
+/* -------------------------------------------------
+   2) PAGINA PRODOTTO "ANOMALA" (quella che hai mostrato)
+   Segnale: pagina con .grid MA senza menu categorie (.tree/.sidebar)
+   Quindi: centra tutto, impagina in colonna, immagine NON gigante
+   ------------------------------------------------- */
+
+/* Se NON c'è la sidebar delle categorie, trattala come pagina prodotto */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid{
+  grid-template-columns: 1fr !important;      /* una colonna */
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+/* Card prodotto dentro quella grid: centrata e più “scheda” */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .card{
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+/* Titolo prodotto: centrato e leggermente più piccolo */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .h1,
+body:not(:has(.tree)):not(:has(.sidebar)) .grid h1{
+  text-align: center;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
-  margin: 0 0 10px;
 }
 
-/* SKU + categoria: centrati e più evidenti SOLO nel prodotto */
-.hero .small{
+/* SKU + categoria centrati */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .small{
   text-align: center;
   font-size: 13px;
-  font-weight: 750;
-  color: #374151;
-}
-.hero .small a{
-  font-weight: 850;
-  color: var(--link);
-  text-decoration: none;
-}
-.hero .small a:hover{
-  text-decoration: underline;
+  font-weight: 700;
 }
 
-/* Layout prodotto centrato */
-.hero{
-  justify-items: center;
-}
-
-/* Foto prodotto: dimensioni “shop”, non poster */
-.hero .imgbox{
+/* Immagine prodotto: centrata e con limiti corretti */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .imgbox{
+  max-width: 420px;
   width: 100%;
-  max-width: 320px;
-  margin: 0 auto;
-  min-height: 220px;
+  margin: 18px auto 10px;
+  min-height: 240px;
 }
-.hero .imgbox img{
-  max-height: 300px;
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .imgbox img{
+  max-height: 340px;
 }
 
-/* Prezzo + disponibilità: in colonna e centrati */
-.hero .price{
+/* Prezzo e disponibilità centrati sotto immagine */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .price{
   display: block;
   text-align: center;
   font-size: 20px;
-  margin: 10px 0 0;
+  font-weight: 900;
+  margin-top: 10px;
 }
-.hero .availability{
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .availability{
   display: block;
   text-align: center;
   margin-top: 6px;
@@ -110,21 +110,32 @@
 }
 
 /* Bottone WhatsApp centrato */
-.hero .button{
+body:not(:has(.tree)):not(:has(.sidebar)) .grid .button{
+  margin: 12px auto 0;
   justify-content: center;
-  margin: 10px auto 0;
 }
 
-/* Descrizione resta leggibile (non tutta centrata) */
-.hero p{
+/* Descrizione leggibile (non centrata) */
+body:not(:has(.tree)):not(:has(.sidebar)) .grid p{
   text-align: left;
 }
 
-/* Mobile */
+
+/* -------------------------------------------------
+   3) Mobile (sia categorie che prodotto)
+   ------------------------------------------------- */
 @media (max-width: 520px){
-  .hero .h1{ font-size: 18px; }
-  .hero .imgbox{ max-width: 100%; }
-  .hero .imgbox img{ max-height: 260px; }
-  .header .input,
-  .wrap .input{ font-size: 14px; padding: 13px 14px; }
+
+  /* categorie: card più compatte */
+  .grid .imgbox{ min-height: 150px; }
+  .grid .imgbox img{ max-height: 190px; }
+
+  /* prodotto “anomalo”: immagine un po' più bassa */
+  body:not(:has(.tree)):not(:has(.sidebar)) .grid .imgbox{
+    max-width: 100%;
+    min-height: 210px;
+  }
+  body:not(:has(.tree)):not(:has(.sidebar)) .grid .imgbox img{
+    max-height: 280px;
+  }
 }
