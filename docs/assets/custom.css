@@ -1,1 +1,41 @@
-/* custom overrides */
+/* Paperprint - custom.css (STABILE)
+Obiettivo:
+- Migliorare HOME (hero immagine negozio + search)
+- Non stravolgere CATEGORIE/PRODOTTI (override leggeri)
+*/
+
+/* --- HOME --- */
+body.home{
+  background: var(--bg);
+}
+.home .wrap{ padding-top: 18px; }
+.home .header{ gap: 12px; }
+.home .actions{ gap: 10px; }
+
+/* search in header: input + bottone */
+.home-search{ display:flex; gap:10px; flex: 1 1 520px; align-items:center; justify-content:flex-end; }
+.home-search .input{ width: 100%; max-width: 520px; }
+.button.primary{
+  background: #0ea5e9;
+  border-color: transparent;
+  color: #fff;
+}
+.button.primary:hover{ filter: brightness(0.95); }
+
+/* hero card immagine */
+.home-hero{ margin-top: 14px; }
+.home-hero .p{ padding: 0; }
+.home-hero img{ width: 100%; height:auto; display:block; }
+
+/* --- LISTE (categorie + prodotti) --- */
+.grid .imgbox{ min-height: 190px; }
+.grid .imgbox img{ max-height: 260px; }
+.grid .h2{ font-size: 15px; line-height: 1.25; }
+.grid .small{ font-size: 12px; }
+
+/* --- PAGINA PRODOTTO --- */
+.hero{ grid-template-columns: 1fr !important; max-width: 980px; margin: 0 auto; }
+.imgbox{ max-width: 520px; margin: 0 auto; }
+.imgbox img{ max-height: 360px; }
+.price{ font-size: 20px; }
+.availability{ margin-top: 6px; }

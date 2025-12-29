@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Catalogo Paperprint</title>
-  <link rel="stylesheet" href="assets/style.css?v=20251229131015">
-  <link rel="stylesheet" href="assets/custom.css?v=20251229131015">
+  <link rel="stylesheet" href="assets/style.css?v=20251229163101">
+  <link rel="stylesheet" href="assets/custom.css?v=20251229163101">
 </head>
 <body>
   <div class="wrap">
@@ -20,7 +20,10 @@
         <a class="button" href="prodotti/index.html">Tutti i prodotti</a>
         <a class="button" href="categorie/index.html">Categorie</a>
       </div>
-      <input id="home_q" class="input" type="search" placeholder="Cerca un prodotto e premi Invio…">
+      <div class="home-search">
+        <input id="home_q" class="input" type="search" placeholder="Cerca un prodotto">
+        <button id="home_btn" class="button primary" type="button">Ricerca</button>
+      </div>
     </div>
 
     <div class="card p">
@@ -35,10 +38,15 @@
   (function(){
     const el = document.getElementById('home_q');
     if(!el) return;
+    const go = function(){
+      const q = (el.value || '').trim();
+      location.href = 'prodotti/index.html' + (q ? ('?q=' + encodeURIComponent(q)) : '');
+    };
+    const btn = document.getElementById('home_btn');
+    if(btn) btn.addEventListener('click', go);
     el.addEventListener('keydown', function(e){
       if(e.key === 'Enter'){
-        const q = (el.value || '').trim();
-        location.href = 'prodotti/index.html' + (q ? ('?q=' + encodeURIComponent(q)) : '');
+        go();
       }
     });
   })();

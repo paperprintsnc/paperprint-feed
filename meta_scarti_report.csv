@@ -11,6 +11,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 137373,Espositore 144 matite in grafite Faber-Castell HB fusto triangolare unicorno e dinosauro - 111550,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 137374,Espositore 72 matite-evidenziatori Jumbo Grip Neon Faber-Castell colori assortiti 114873,SCARTO_NO_PREZZI_ROW,False,False,False,True,0.0,False,True
 100037,Tappetino da taglio Westcott 45x30 cm blu DIN A3 E-46003 00,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+100480,Carta colorata Favini Rismaluce colori forti 90 g/m² A3 giallo sole Risma da 300 fogli - A66B313,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 100481,Carta colorata Favini Rismaluce colori forti 90 g/m² A3 arancio Risma da 300 fogli - A66E313,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 100498,Carta colorata Favini Rismaluce colori forti 140 g/m² A4 scarlatto 61 - Risma da 200 fogli - A65C204,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 100505,Carta colorata Favini Rismaluce colori forti 140 g/m² A3 verde - Risma da 200 fogli - A65D213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -112,6 +113,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 105266,"Roller Pilot Hi Tecpoint V7 0,7 mm nero  011710",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 105350,Penne a punta sintetica Staedtler Lumocolor permanent pen 313 s assortiti astuccio da 4 pezzi - 313 WP4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 105354,Penne a punta sintetica Staedtler Lumocolor permanent pen 317 M assortiti astuccio da 4 pezzi - 317 WP4,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+105420,Quaderno 42 fogli PIGNA Monocromo A4 a quadretti 10 mm assortiti 022988710,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 105610,"Fineliner Stabilo Point 88 0,4 mm assortiti scatola in metallo da 50 - 8850-6",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 105693,Evidenziatori Stabilo Luminator 2-5 mm assortiti set da scrivania da 4 - 7104-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 105974,Dispenser per nastro adesivo Scotch® Magic? C38 nero + 12 rotoli 19 mm x 33 m SM12 Black,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
@@ -344,6 +346,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 120081,Carta colorata Favini Le Cirque A3 80 g/m² colori  tenui Pistacchio 102 - risma da 500 fogli - A716353,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 120103,Carta colorata Favini Le Cirque A3 160  g/m² colori forti Azzurro reale 204 risma da 250 fogli - A74G223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 120109,Carta colorata Favini Le Cirque A4 160 g/m² assortiti 5 colori tenui risma da 250 fogli - A74X304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+120405,"Penne a sfera cancellabili Pilot Frixion Ball 0,7 mm nero blu rosso verde Set2go 4 pezzi  - 006821",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120406,"Penne a sfera cancellabili Pilot Frixion Ball Clicker 0,7 mm nero blu rosso verde Set2go 4 pezzi - 006822",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120439,Braccio porta monitor per 1 schermo max 27'' DURABLE argento metallizzato 345x470x120 mm - 5083-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120440,Braccio porta monitor per 2 schermi max 27'' DURABLE argento metallizzato 780x445x190 mm - 5085-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
@@ -355,7 +358,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 120447,Tasche per identificazione a fissaggio magnetico DURABLE 113x53 mm giallo Conf. 50 pz - 1741-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120448,"Tasche per identificazione a fissaggio magnetico DURABLE 163x81,5 mm giallo Conf. 50 pz - 1742-04",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120449,"Tasche per identificazione a fissaggio magnetico DURABLE 223x81,5 mm giallo Conf. 50 pz - 1757-04",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
-120462,"Asciugamani interfogliati piegati a W Papernet 2 veli - 32x20,3 cm - bianco Conf. 20 fascette da 100 pezzi - 407552",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120462,"Asciugamani interfogliati piegati a W Papernet 2 veli - 32x20,3 cm - bianco Conf. 20 fascette da 100 pezzi - 407552",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 120496,Gruppo di continuità Oxxtron 1000VA Trust con batteria integrata - 2 prese nero - 21199,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 120497,Gruppo di continuità (UPS) MAXXON POWERSTRIP 800VA Trust 6 prese a parete - nero - 23326,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 120505,"Cuffie on-ear Trust HS-201 USB 2.0 nero - cavo 1,8 m 25373",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -376,7 +379,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 121950,"Cassettiera Cosy - 2 cassetti - 25x14,3x27,5 cm Leitz giallo caldo 53570019",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 121954,"Bottiglia termica Cosy da 500 ml - 6,8x23,5x6,8 cm Leitz blu calmo 90160061",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 121955,"Bottiglia termica Cosy da 500 ml - 6,8x23,5x6,8 cm Leitz grigio velluto 90160089",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
-122005,Portaprogetti in cartone con elastico piatto Euro-Cart Iris dorso 3 cm viola - formato A4 - CPRIO03ELPVI IRIS,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+122005,Portaprogetti in cartone con elastico piatto Euro-Cart Iris dorso 3 cm viola - formato A4 - CPRIO03ELPVI IRIS,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 122104,Cono Street in carta paglia Pigna Envelopes Kami 80gr + 9gr PE - 25x25 cm Conf. 250 pz - 0250025,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 122105,Pizza Street in carta paglia Pigna Envelopes Kami 80gr + 9gr PE - 18x18 cm Conf. 250 pz - 0250026,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 122287,Batterie alcaline Duracell Plus100 Mezzatorcia C - MN1400 - blister da 2 - DU0301,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -467,7 +470,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 128328,Piano scrivania noce Fellowes Levado 180x80 cm 9871401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 128568,Espositore 240 pennarelli Stabilo Pen 68 tratto 1 mm assortiti 68/240,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 128571,Espositore 300 evidenziatori Stabilo Boss Original 2-5 mm - colori assortiti - IT70/300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
-128572,Espositore 45 evidenziatori Stabilo Boss Original 2-5 mm - colori assortiti - 70/45-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+128572,Espositore 45 evidenziatori Stabilo Boss Original 2-5 mm - colori assortiti - 70/45-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 128592,Espositore 100 evidenziatori Stabilo Swing Cool Pastel  - colori assortiti - 275/100-8-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 128603,Evidenziatori Swing Cool Pastel Stabilo conf. 8 colori assortiti 275/8-08-2,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 128622,"Fineliner Stabilo Point 88® 0,4 mm arancione pastello 88/25",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -642,6 +645,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 131965,Distruggidocumenti uso personale Fellowes LX65 taglio a frammenti 4x40 mm nero - 4400701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 132040,Foglietti Post-it® giallo neon 100 fogli/blocchetto 76x76 mm - conf. 6 pz blisterati singolarmente - 75011N,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 132060,Cassettiera Durable Idealbox Pro 7 cassetti 250x365xH.322 mm rosso 7763-03,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+132061,Cassettiera Durable Idealbox Pro 7 cassetti 250x365xH.322 mm blu 7763-06,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 132062,Supporto per tablet e smartphone Durable Twist Table regolabile nero da tavolo - 8941-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 132067,"Portamemo da scrivania Durable Eco 10x10xH.10,5 cm nero - 7758-01",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 132069,Portacataloghi Durable Eco 3 scomparti 215x210xH.165 mm nero - 7761-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
@@ -727,8 +731,9 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 134142,Pennarello Stabilo Pen 68 Max punta scalpello - conf. 12 pezzi - 768/12-21,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 134145,Pennarello Stabilo Pen 68 Max punta scalpello - conf. 20 pezzi - 768/20-31-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 134157,Espositore 15 evidenziatori Stabilo Boss - colore nero - 70/15-2-46,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
-134211,Foglietti Post-it® Popmistic - conf. 6 blocchetti da 100 ff - 76x127 mm - 655-pop,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+134211,Foglietti Post-it® Popmistic - conf. 6 blocchetti da 100 ff - 76x127 mm - 655-pop,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 134217,Espositore 312 pennelli Lebez Syntex in setola sintetica - punte assortite - 81330,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+134218,Pennelli Lebez Syntex in setole sintetiche - punta piatta - conf. 5 pz - 300B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 134363,Pennarello Stabilo Point Max - punta nylon - colori assortiti - astuccio da 42 pezzi - 488/42-1-20,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 134364,Espositore da banco 60 pennarelli Stabilo Pen 68 metallic - colori assortiti - 68/60-8-1,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 134374,Espositore da terra 550 evidenziatori Stabilo Boss -  colori assortiti IT70/550-6,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
