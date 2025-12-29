@@ -263,6 +263,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 109664,Mouse verticale FELLOWES Penguin® Wireless nero/argento medio 9894701,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 109665,Mouse verticale FELLOWES Penguin® con filo grigio/nero piccolo 9894801,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 109668,Tappetino mouse con poggiapolsi FELLOWES Photo Gel disegno pneumatico 9653401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+110397,Carta per fotocopie A4 Navigator Colour Documents 120 g/m² Risma da 250 fogli - NCD1200181,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 110412,Set altoparlanti stereo USB TRUST MiLa 2.0 nero 16697,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 113660,Toner Q-Connect rigenerato HP 53A - HP Q7553A nero - KF04324,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 113662,Toner Q-Connect rigenerato HP 51A - HP Q7551A nero - KF04326,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
@@ -327,6 +328,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 118409,Pennarelli Stabilo Pen 68 metallic 1 mm  argento - 68/805,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 118414,Matite colorate acquerellabili Stabilo aquacolor® astuccio in cartone assortiti Conf. 36 pezzi - 1636-7,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 118448,Matite colorate Stabilo Color assortiti  Conf. 24 pezzi - 1924/77-01,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+118629,Cartellina con clip Durable DURACLIP® A4 - dorso 6 mm - capacità 60 fogli rosso - 220903,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 119099,"Marcatore punta a scalpello Pilot SCA broad 2-4,5 mm blu 002420",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 119381,Etichette removibili Q-Connect per Dymo LabelWriter - spedizioni/badge 41x89 mm rotolo 300 etichette KF18535,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 119763,Distruggidocumenti uso personale P-4 Fellowes Powershred LX200 22 L - taglio a miniframmenti 4x12 mm nero 5502201,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
@@ -592,6 +594,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 130035,Cartellina a L in PVC Esselte Crystal A4 blu - conf. 25 pz - 55435,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 130036,Cartellina a L in PVC Esselte Crystal A4 giallo - conf. 25 pz - 55431,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 130038,Cartellina a L in PVC Esselte Crystal A4 conf. da 25 pezzi Esselte verde - 55436,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+130049,Cartella portaprogetti Esselte C88 DELSO ORDER dorso 8 cm presspan lucido rosso 25x35 cm rosso - 390388160,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 130052,Cartelle sospese Esselte Orgarex Kori Lateral - 33 cm fondo U - conf. 25 pz - 22213,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 130055,Cartelle sospese Esselte ORGAREX KORI VERTICAL 33 cm conf. da 25 pezzi fondo V - 10202,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 130062,Cestino gettacarte Esselte Basko 15 L - 12663,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -602,7 +605,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 130613,Set creativo Giotto Art Lab How To Create Manga F582300,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 130653,Tempera Giotto Extra ultrafine in tubetto 12 ml - in vetrinetta da 144 colori assortiti - F35250000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 130672,Tempera pronta Giotto Extra Quality in flacone 500 ml rosa - F532806,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
-130690,Tempera pronta Giotto metal in flacone 250 ml oro metallizzato - F53140100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+130690,Tempera pronta Giotto metal in flacone 250 ml oro metallizzato - F53140100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 130696,Tempera pronta Giotto School Paint in flacone 1 L magenta - F535510,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 130924,Espositore modulare 108 evidenziatori Tratto Video - colori assortiti - F893900,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 130926,Espositore modulare 288 penne Tratto Pen punta sintetica - colori assortiti - F832800,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
@@ -700,7 +703,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 133381,Blister 10 lame segmentate Olfa 100x18 mm per cutter - LB10B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 133412,Pennello punta tonda Lebez - pelo di bue - serie N.10 - conf. 12 pz 1557/10B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 133414,Pennello punta tonda Lebez - pelo di bue - serie N.14 - conf. 12 pz 1557/14B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
-133428,Portablocco City Time Dual A4 in tessuto tecnico - 26x34 cm - nero - 61500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
+133428,Portablocco City Time Dual A4 in tessuto tecnico - 26x34 cm - nero - 61500,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 133445,Pressini fermafogli Lebez 38x150 mm - colori assortiti - conf. 250 pezzi - 361-ASS-B,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 133880,Espositore da banco 80 marcatori a tempera Uni Posca colori assortiti - punta PC1 - M PC1MR 80P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 133881,Espositore da banco 60 marcatori a tempera - colori assortiti punta PC5 - M PC5M 5D,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
@@ -793,6 +796,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 135838,Distruggidocumenti automatico Leitz Office 300 P5 - taglio a frammenti P-5 2x15 mm - 60 L - 80160000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 135839,Distruggidocumenti Leitz IQ Home Slim P4 - 80010000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 135871,Album prima nota cassa O.C.L. 50x2 copie - blister da 3 blocchi - 216x305 mm 0131P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
+135892,Carta per fotocopie A3 Navigator Office Premium risma da 500 ff 100 g/m² NPR1000205,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
 135977,Toner Q-Connect rigenerato HP CE278A nero - KF14937,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 135978,Toner Q-Connect rigenerato Brother TN-2220 nero - KF15455,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 136005,Registratore protocollo Esselte Essentials G75 23x33 cm dorso 8 cm verde chiaro - 390775600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
