@@ -190,7 +190,7 @@ body:has(#home_q)::before{
   content: "";
   position: fixed;
   inset: 0;
-  background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
+  /*background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
   opacity: 0.18;          /* regola qui se vuoi più/meno visibile */
   z-index: 0;
   pointer-events: none;
