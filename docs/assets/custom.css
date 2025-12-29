@@ -1,266 +1,99 @@
-/* Paperprint - custom.css (HOTFIX)
-   Obiettivo:
-   - Sistemare SOLO HOME: header su una riga, pulsanti colorati, pulsante Ricerca blu
-   - Mostrare foto negozio come "hero" senza toccare pagine prodotti/categorie
-   - Nessuna modifica alla griglia categorie/listini
-*/
-
-/* variabili */
-:root{
-  --pp-blue:#1b6ef3;
-  --pp-blue-weak: rgba(27,110,243,.12);
-  --pp-text:#111827;
-  --pp-line:#e5e7eb;
-  --pp-radius:18px;
-}
-
-/* =======================================================================
-   HOME (rilevata dalla presenza di .home-search nel header)
-   ======================================================================= */
-
-/* Header: tutto su una riga */
-.wrap:has(.home-search) .header{
-  flex-wrap:nowrap !important;
-  gap:14px !important;
-}
-
-/* Brand un po' più compatto (così non spinge a capo) */
-.wrap:has(.home-search) .brand{
-  min-width: 220px;
-}
-
-/* Pulsanti "Tutti i prodotti" / "Categorie" più visibili (come prima) */
-.wrap:has(.home-search) .actions .button{
-  background: var(--pp-blue-weak) !important;
-  border-color: rgba(27,110,243,.25) !important;
-  color: var(--pp-text) !important;
-  font-weight: 700 !important;
-}
-
-/* Search area: input + bottone allineati */
-.wrap:has(.home-search) .home-search{
-  margin-left:auto;
-  display:flex;
-  align-items:center;
-  gap:10px;
-}
-
-/* Input: larghezza controllata, non rompe la riga */
-.wrap:has(.home-search) .home-search input{
-  width: min(520px, 44vw);
-  min-width: 260px;
-}
-
-/* Bottone Ricerca: BLU */
-.wrap:has(.home-search) #home_btn.button.primary,
-.wrap:has(.home-search) .home-search .button.primary{
-  background: var(--pp-blue) !important;
-  border-color: var(--pp-blue) !important;
-  color:#fff !important;
-  font-weight:800 !important;
-}
-
-/* Hover bottone blu */
-.wrap:has(.home-search) #home_btn.button.primary:hover,
-.wrap:has(.home-search) .home-search .button.primary:hover{
-  filter: brightness(.95);
-}
-
-/* Su schermi piccoli consentiamo il wrap (meglio che schiacciare tutto) */
-@media (max-width: 980px){
-  .wrap:has(.home-search) .header{
-    flex-wrap:wrap !important;
-  }
-  .wrap:has(.home-search) .home-search{
-    width:100%;
-    justify-content:flex-start;
-  }
-  .wrap:has(.home-search) .home-search input{
-    width:min(520px, 100%);
-    min-width: 0;
-    flex:1;
-  }
-}
-
-/* Hero image (foto negozio) sotto il box suggerimento */
-.wrap:has(.home-search)::after{
-  content:"";
-  display:block;
-  margin: 18px auto 0;
-  width: min(980px, 100%);
-  aspect-ratio: 16 / 9;
-  border-radius: var(--pp-radius);
-  border: 1px solid var(--pp-line);
-  box-shadow: 0 10px 25px rgba(0,0,0,.06);
-  background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
-}
-
-/* =======================================================================
-   NOTE
-   - Non tocchiamo .grid / .card / .imgbox: così categorie e pagine prodotto restano invariati
-   ======================================================================= */
 /* =========================================================
    Paperprint - custom.css (STABLE)
    Scopo:
-   - Rifiniture SOLO HOME (hero background + search inline + bottoni blu)
-   - Non tocca griglie categorie/listini (evitiamo effetti collaterali)
+   - Rifiniture SOLO HOME (header su una riga + bottoni blu + search inline)
+   - Mostra FOTO NEGOZIO come HERO centrale
+   - Nasconde BOX "Suggerimento" e FOOTER in HOME (come da tua immagine)
+   - NON tocca griglie categorie/listini e pagine prodotto
    NOTE:
-   - custom.css è in docs/assets/
-   - immagine sfondo è in docs/assets/sfondo_home_catalogo.jpg
-     quindi va richiamata così: url("sfondo_home_catalogo.jpg")
+   - Questo file sta in: docs/assets/custom.css
+   - L'immagine sta in: docs/assets/sfondo_home_catalogo.jpg
+     quindi si richiama: url("sfondo_home_catalogo.jpg")  (senza assets/)
    ========================================================= */
 
+:root{
+  --pp-blue:#0b6bd3;
+  --pp-blue2:#1e90ff;
+  --pp-line:#e5e7eb;
+  --pp-radius:16px;
+}
 
-/* =========================================================
-   HOME: layout header + search su una riga
-   (attivo solo se esiste l'input #home_q)
-   ========================================================= */
-
+/* =========================
+   HOME (index.html)
+   Applico gli stili SOLO se esiste #home_q
+   ========================= */
 body:has(#home_q) .header{
-  /* evita che la search scenda sotto */
-  display: grid;
-  grid-template-columns: 1fr auto auto;
-  align-items: center;
-  column-gap: 14px;
-  row-gap: 10px;
+  display:grid;
+  grid-template-columns: 1fr auto minmax(280px, 520px);
+  gap:12px 14px;
+  align-items:center;
 }
 
-body:has(#home_q) .brand{
-  grid-column: 1 / 2;
-}
+/* Brand: allinea meglio titolo e sottotitolo */
+body:has(#home_q) .brand h1{ margin:0; }
+body:has(#home_q) .brand .sub{ margin-top:2px; }
 
+/* Bottoni header: blu soft */
 body:has(#home_q) .actions{
-  grid-column: 2 / 3;
-  justify-self: center;
-  display: flex;
-  gap: 10px;
-  flex-wrap: nowrap;
+  display:flex;
+  gap:10px;
+  justify-content:center;
+}
+body:has(#home_q) .actions .button{
+  background:rgba(11,107,211,.10);
+  border:1px solid rgba(11,107,211,.22);
+  color:#0b2a55;
+  font-weight:650;
 }
 
+/* Search HOME: input + bottone su una riga */
 body:has(#home_q) .home-search{
-  grid-column: 3 / 4;
-  justify-self: end;
-
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  flex-wrap: nowrap;
+  display:flex;
+  gap:10px;
+  justify-content:flex-end;
+  align-items:center;
+  flex-wrap:nowrap;
 }
-
 body:has(#home_q) .home-search .input{
-  min-width: 260px;
-  width: 360px;
-  max-width: 42vw;
+  width:100%;
+  max-width:520px;
+}
+body:has(#home_q) #home_btn.button.primary{
+  background:var(--pp-blue);
+  border-color:var(--pp-blue);
+  color:#fff;
+  font-weight:700;
+}
+body:has(#home_q) #home_btn.button.primary:hover{
+  background:var(--pp-blue2);
+  border-color:var(--pp-blue2);
 }
 
-body:has(#home_q) .home-search .button{
-  white-space: nowrap;
-}
-
-/* Responsive: su schermi stretti impila in modo pulito */
-@media (max-width: 920px){
+/* Mobile: torna a colonna ma ordinata */
+@media (max-width: 860px){
   body:has(#home_q) .header{
     grid-template-columns: 1fr;
+    justify-items:stretch;
   }
-  body:has(#home_q) .actions{
-    justify-self: start;
-  }
-  body:has(#home_q) .home-search{
-    justify-self: start;
-  }
-  body:has(#home_q) .home-search .input{
-    width: 100%;
-    max-width: 520px;
-  }
+  body:has(#home_q) .actions{ justify-content:flex-start; }
+  body:has(#home_q) .home-search{ justify-content:flex-start; }
 }
 
+/* Nascondi box "Suggerimento" e footer SOLO in HOME */
+body:has(#home_q) .card.p{ display:none !important; }
+body:has(#home_q) .footer{ display:none !important; }
 
-/* =========================================================
-   HOME: sfondo negozio (hero background)
-   - non deve influenzare altre pagine
-   ========================================================= */
+/* HERO: crea il box immagine dopo la wrap (a fine contenuto) */
+body:has(#home_q) .wrap::after{
+  content:"";
+  display:block;
+  width:min(980px, 100%);
+  aspect-ratio: 16 / 9;
+  margin: 18px auto 0;
+  border-radius: var(--pp-radius);
+  border:1px solid var(--pp-line);
+  box-shadow:0 10px 25px rgba(0,0,0,.06);
 
-body:has(#home_q) .wrap{
-  position: relative;
-  z-index: 1;
-}
-
-/* overlay con immagine fissa dietro */
-body:has(#home_q)::before{
-  content: "";
-  position: fixed;
-  inset: 0;
-  /*background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
-  opacity: 0.18;          /* regola qui se vuoi più/meno visibile */
-  z-index: 0;
-  pointer-events: none;
-}
-
-/* piccola “patina” per aumentare leggibilità sopra lo sfondo */
-body:has(#home_q) .wrap::before{
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(255,255,255,0.55);
-  z-index: 0;
-  pointer-events: none;
-}
-
-/* alza il contenuto sopra la patina */
-body:has(#home_q) .wrap > *{
-  position: relative;
-  z-index: 1;
-}
-
-
-/* =========================================================
-   HOME: ripristino colori bottoni (blu come prima)
-   - limitato al solo header della home
-   ========================================================= */
-
-body:has(#home_q) .header .button{
-  background: #1e90ff;
-  color: #fff;
-  border: 1px solid rgba(0,0,0,0.06);
-}
-
-body:has(#home_q) .header .button:hover{
-  filter: brightness(0.95);
-}
-
-body:has(#home_q) .header .button.primary{
-  background: #0b6bd3;
-  border-color: rgba(0,0,0,0.08);
-}
-
-
-/* =========================================================
-   (OPZIONALE) Pagina PRODOTTO: se vuoi centrare meglio immagine
-   SENZA toccare categorie/listini.
-   Se non ti serve, puoi cancellare questo blocco.
-   ========================================================= */
-
-/* centra il contenuto nella pagina prodotto se esiste la sezione hero */
-body:has(.hero) .hero{
-  justify-items: center;
-}
-
-/* limita immagini “giganti” senza cambiare griglie categorie */
-body:has(.hero) .hero img{
-  max-width: 100%;
-  height: auto;
-  object-fit: contain;
-}
-/* ==============================
-   HOME – PULIZIA TESTI SUPERFLUI
-   ============================== */
-
-/* Nasconde il box "Suggerimento" */
-.wrap .card.p {
-  display: none !important;
-}
-
-/* Nasconde il testo footer sotto l'immagine */
-.wrap .footer {
-  display: none !important;
+  /* IMPORTANTE: path relativo corretto (stessa cartella di custom.css) */
+  background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
 }
