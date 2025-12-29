@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Catalogo Paperprint</title>
-  <link rel="stylesheet" href="assets/style.css?v=20251229163101">
-  <link rel="stylesheet" href="assets/custom.css?v=20251229163101">
+  <link rel="stylesheet" href="assets/style.css?v=20251229164728">
+  <link rel="stylesheet" href="assets/custom.css?v=20251229164728">
 </head>
 <body>
   <div class="wrap">
@@ -37,17 +37,18 @@
 <script>
   (function(){
     const el = document.getElementById('home_q');
+    const btn = document.getElementById('home_btn');
     if(!el) return;
+
     const go = function(){
       const q = (el.value || '').trim();
-      location.href = 'prodotti/index.html' + (q ? ('?q=' + encodeURIComponent(q)) : '');
+      const url = 'prodotti/index.html' + (q ? ('?q=' + encodeURIComponent(q)) : '');
+      location.href = url;
     };
-    const btn = document.getElementById('home_btn');
+
     if(btn) btn.addEventListener('click', go);
     el.addEventListener('keydown', function(e){
-      if(e.key === 'Enter'){
-        go();
-      }
+      if(e.key === 'Enter') go();
     });
   })();
 </script>

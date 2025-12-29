@@ -1,41 +1,86 @@
-/* Paperprint - custom.css (STABILE)
-Obiettivo:
-- Migliorare HOME (hero immagine negozio + search)
-- Non stravolgere CATEGORIE/PRODOTTI (override leggeri)
-*/
+/* ===============================
+   Paperprint - custom.css (override)
+   Obiettivo: migliorare leggibilità senza rompere layout categorie
+   =============================== */
 
-/* --- HOME --- */
-body.home{
-  background: var(--bg);
+/* ---- LISTA PRODOTTI (prodotti/index.html) ---- */
+.rowline{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:14px;
 }
-.home .wrap{ padding-top: 18px; }
-.home .header{ gap: 12px; }
-.home .actions{ gap: 10px; }
-
-/* search in header: input + bottone */
-.home-search{ display:flex; gap:10px; flex: 1 1 520px; align-items:center; justify-content:flex-end; }
-.home-search .input{ width: 100%; max-width: 520px; }
-.button.primary{
-  background: #0ea5e9;
-  border-color: transparent;
-  color: #fff;
+.rowleft{min-width:0}
+.rowright{text-align:right;white-space:nowrap}
+@media (max-width: 640px){
+  .rowline{flex-direction:column}
+  .rowright{text-align:left;white-space:normal}
 }
-.button.primary:hover{ filter: brightness(0.95); }
 
-/* hero card immagine */
-.home-hero{ margin-top: 14px; }
-.home-hero .p{ padding: 0; }
-.home-hero img{ width: 100%; height:auto; display:block; }
+/* ---- PAGINA PRODOTTO (prodotti/SKU.html) ---- */
+/* Il generatore usa .hero con .imgbox + pannello info */
+.hero{justify-items:center}
+.hero .imgbox{
+  width:100%;
+  max-width:520px;
+  margin:0 auto;
+  min-height:220px;
+}
+.hero .imgbox img{
+  max-height:420px;
+}
 
-/* --- LISTE (categorie + prodotti) --- */
-.grid .imgbox{ min-height: 190px; }
-.grid .imgbox img{ max-height: 260px; }
-.grid .h2{ font-size: 15px; line-height: 1.25; }
-.grid .small{ font-size: 12px; }
+/* Titolo: un filo più contenuto e centrato */
+.hero + .p h1,
+.card h1{
+  text-align:center;
+  font-size:22px;
+  line-height:1.2;
+}
 
-/* --- PAGINA PRODOTTO --- */
-.hero{ grid-template-columns: 1fr !important; max-width: 980px; margin: 0 auto; }
-.imgbox{ max-width: 520px; margin: 0 auto; }
-.imgbox img{ max-height: 360px; }
-.price{ font-size: 20px; }
-.availability{ margin-top: 6px; }
+/* SKU + Categoria: un po' più leggibili */
+.card .small{font-size:12.5px}
+
+/* Prezzo + stato: più “in colonna” e centrati */
+.price{text-align:center}
+.availability{text-align:center}
+
+/* ---- CATEGORIE (non stravolge) ---- */
+/* Evita immagini troppo “giganti” nelle card */
+.grid .imgbox{min-height:190px}
+.grid .imgbox img{max-height:260px}
+
+/* Titoli card leggermente più compatti (solo dentro le card della griglia) */
+.grid .card h3, .grid .card .h2{
+  font-size:15px;
+  line-height:1.25;
+}
+
+/* SKU/price nelle card: un filo più visibili */
+.grid .small{font-size:12.5px}
+
+/* ---- LINK WhatsApp: stile bottone coerente ---- */
+a[href*="wa.me"], a[href*="whatsapp"]{
+  text-decoration:none;
+}
+
+
+
+/* Home hero (foto negozio) */
+.home-hero{padding:0;overflow:hidden}
+.home-hero img{display:block;width:100%;height:auto;max-height:520px;object-fit:cover}
+
+/* Pulsanti home più visibili */
+.actions .button{
+  background:#e0f2fe;
+  border-color:#bae6fd;
+  font-weight:800;
+}
+.actions .button:hover{
+  background:#bae6fd;
+}
+
+/* Mobile: riduci un filo l'hero */
+@media (max-width: 700px){
+  .home-hero img{max-height:320px}
+}
