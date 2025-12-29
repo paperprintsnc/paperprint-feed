@@ -801,7 +801,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 135838,Distruggidocumenti automatico Leitz Office 300 P5 - taglio a frammenti P-5 2x15 mm - 60 L - 80160000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 135839,Distruggidocumenti Leitz IQ Home Slim P4 - 80010000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 135871,Album prima nota cassa O.C.L. 50x2 copie - blister da 3 blocchi - 216x305 mm 0131P,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
-135892,Carta per fotocopie A3 Navigator Office Premium risma da 500 ff 100 g/m² NPR1000205,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,4.0,False,True
+135892,Carta per fotocopie A3 Navigator Office Premium risma da 500 ff 100 g/m² NPR1000205,SCARTO_STOCK_SOTTO_SOGLIA,True,True,False,True,0.0,False,True
 135977,Toner Q-Connect rigenerato HP CE278A nero - KF14937,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 135978,Toner Q-Connect rigenerato Brother TN-2220 nero - KF15455,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 136005,Registratore protocollo Esselte Essentials G75 23x33 cm dorso 8 cm verde chiaro - 390775600,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True

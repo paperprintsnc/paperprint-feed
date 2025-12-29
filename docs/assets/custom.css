@@ -1,86 +1,122 @@
-/* ===============================
-   Paperprint - custom.css (override)
-   Obiettivo: migliorare leggibilità senza rompere layout categorie
-   =============================== */
+/* Paperprint - custom.css (STABILE)
+   - Solo rifiniture UI: HOME + pagina PRODOTTO
+   - NON tocca la griglia delle categorie/listini (evitiamo effetti collaterali)
+*/
 
-/* ---- LISTA PRODOTTI (prodotti/index.html) ---- */
-.rowline{
-  display:flex;
-  align-items:flex-start;
-  justify-content:space-between;
+:root{
+  --pp-blue:#1b6ef3;
+}
+
+/* ---------------- HOME ---------------- */
+body.home .home-header{
+  display:grid;
+  grid-template-columns: 1fr auto minmax(280px, 440px);
   gap:14px;
-}
-.rowleft{min-width:0}
-.rowright{text-align:right;white-space:nowrap}
-@media (max-width: 640px){
-  .rowline{flex-direction:column}
-  .rowright{text-align:left;white-space:normal}
+  align-items:center;
+  margin-bottom:14px;
 }
 
-/* ---- PAGINA PRODOTTO (prodotti/SKU.html) ---- */
-/* Il generatore usa .hero con .imgbox + pannello info */
-.hero{justify-items:center}
-.hero .imgbox{
+body.home .home-header .brand .h1{
+  margin:0;
+}
+
+body.home .actions{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  justify-content:center;
+}
+
+body.home .actions .button{
+  border-radius:999px;
+  padding:10px 14px;
+  font-weight:700;
+}
+
+body.home .actions .button:hover{
+  border-color:#bcd3ff;
+}
+
+body.home .searchbar{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  justify-content:flex-end;
+  flex-wrap:nowrap; /* IMPORTANT: input+btn sempre su una riga */
+}
+
+body.home .searchbar input{
   width:100%;
-  max-width:520px;
-  margin:0 auto;
-  min-height:220px;
-}
-.hero .imgbox img{
-  max-height:420px;
-}
-
-/* Titolo: un filo più contenuto e centrato */
-.hero + .p h1,
-.card h1{
-  text-align:center;
-  font-size:22px;
-  line-height:1.2;
+  min-width:240px;
+  padding:12px 14px;
+  border-radius:999px;
+  border:1px solid var(--line, #e5e7eb);
+  background:#fff;
 }
 
-/* SKU + Categoria: un po' più leggibili */
-.card .small{font-size:12.5px}
-
-/* Prezzo + stato: più “in colonna” e centrati */
-.price{text-align:center}
-.availability{text-align:center}
-
-/* ---- CATEGORIE (non stravolge) ---- */
-/* Evita immagini troppo “giganti” nelle card */
-.grid .imgbox{min-height:190px}
-.grid .imgbox img{max-height:260px}
-
-/* Titoli card leggermente più compatti (solo dentro le card della griglia) */
-.grid .card h3, .grid .card .h2{
-  font-size:15px;
-  line-height:1.25;
+body.home .searchbar .button.primary{
+  border-radius:999px;
+  background: var(--pp-blue);
+  border-color: var(--pp-blue);
+  color:#fff;
+  padding:12px 16px;
+  white-space:nowrap;
 }
 
-/* SKU/price nelle card: un filo più visibili */
-.grid .small{font-size:12.5px}
-
-/* ---- LINK WhatsApp: stile bottone coerente ---- */
-a[href*="wa.me"], a[href*="whatsapp"]{
-  text-decoration:none;
+body.home .home-hero{
+  margin:14px 0 18px;
 }
 
-
-
-/* Home hero (foto negozio) */
-.home-hero{padding:0;overflow:hidden}
-.home-hero img{display:block;width:100%;height:auto;max-height:520px;object-fit:cover}
-
-/* Pulsanti home più visibili */
-.actions .button{
-  background:#e0f2fe;
-  border-color:#bae6fd;
-  font-weight:800;
-}
-.actions .button:hover{
-  background:#bae6fd;
+body.home .home-hero-img{
+  width:100%;
+  display:block;
+  border-radius:18px;
+  max-height:520px;
+  object-fit:cover;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  border:1px solid rgba(0,0,0,.06);
 }
 
-/* Mobile: riduci un filo l'hero */
-@media (max-width: 700px){
-  .home-hero img{max-height:320px}
+@media (max-width: 920px){
+  body.home .home-header{
+    grid-template-columns: 1fr;
+  }
+  body.home .actions{
+    justify-content:flex-start;
+  }
+  body.home .searchbar{
+    justify-content:flex-start;
+  }
+}
+
+/* ---------------- PRODOTTO ---------------- */
+body.product .product-hero-grid{
+  display:grid;
+  grid-template-columns: minmax(260px, 420px) 1fr;
+  gap:18px;
+  align-items:start;
+}
+
+body.product .product-img{
+  min-height:260px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+body.product .product-img img{
+  max-height:360px;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+}
+
+body.product .product-info .desc{
+  line-height:1.5;
+}
+
+@media (max-width: 920px){
+  body.product .product-hero-grid{
+    grid-template-columns: 1fr;
+  }
 }
