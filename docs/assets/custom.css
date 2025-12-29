@@ -251,3 +251,16 @@ body:has(.hero) .hero img{
   height: auto;
   object-fit: contain;
 }
+/* ==============================
+   HOME – PULIZIA TESTI SUPERFLUI
+   ============================== */
+
+/* Nasconde il box "Suggerimento" */
+.wrap .card.p {
+  display: none !important;
+}
+
+/* Nasconde il testo footer sotto l'immagine */
+.wrap .footer {
+  display: none !important;
+}
