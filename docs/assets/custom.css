@@ -92,7 +92,7 @@
   border-radius: var(--pp-radius);
   border: 1px solid var(--pp-line);
   box-shadow: 0 10px 25px rgba(0,0,0,.06);
-  background: url("assets/sfondo_home_catalogo.jpg") center / cover no-repeat;
+  background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
 }
 
 /* =======================================================================
