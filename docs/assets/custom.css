@@ -1,122 +1,101 @@
-/* Paperprint - custom.css (STABILE)
-   - Solo rifiniture UI: HOME + pagina PRODOTTO
-   - NON tocca la griglia delle categorie/listini (evitiamo effetti collaterali)
+/* Paperprint - custom.css (HOTFIX)
+   Obiettivo:
+   - Sistemare SOLO HOME: header su una riga, pulsanti colorati, pulsante Ricerca blu
+   - Mostrare foto negozio come "hero" senza toccare pagine prodotti/categorie
+   - Nessuna modifica alla griglia categorie/listini
 */
 
+/* variabili */
 :root{
   --pp-blue:#1b6ef3;
+  --pp-blue-weak: rgba(27,110,243,.12);
+  --pp-text:#111827;
+  --pp-line:#e5e7eb;
+  --pp-radius:18px;
 }
 
-/* ---------------- HOME ---------------- */
-body.home .home-header{
-  display:grid;
-  grid-template-columns: 1fr auto minmax(320px, 520px);
-  gap:14px;
-  align-items:center;
-  margin-bottom:14px;
+/* =======================================================================
+   HOME (rilevata dalla presenza di .home-search nel header)
+   ======================================================================= */
+
+/* Header: tutto su una riga */
+.wrap:has(.home-search) .header{
+  flex-wrap:nowrap !important;
+  gap:14px !important;
 }
 
-body.home .home-header .brand .h1{
-  margin:0;
+/* Brand un po' più compatto (così non spinge a capo) */
+.wrap:has(.home-search) .brand{
+  min-width: 220px;
 }
 
-body.home .actions{
+/* Pulsanti "Tutti i prodotti" / "Categorie" più visibili (come prima) */
+.wrap:has(.home-search) .actions .button{
+  background: var(--pp-blue-weak) !important;
+  border-color: rgba(27,110,243,.25) !important;
+  color: var(--pp-text) !important;
+  font-weight: 700 !important;
+}
+
+/* Search area: input + bottone allineati */
+.wrap:has(.home-search) .home-search{
+  margin-left:auto;
   display:flex;
-  gap:10px;
   align-items:center;
-  justify-content:center;
-}
-
-body.home .actions .button{
-  border-radius:999px;
-  padding:10px 14px;
-  font-weight:700;
-}
-
-body.home .actions .button:hover{
-  border-color:#bcd3ff;
-}
-
-body.home .searchbar{
-  display:flex;
   gap:10px;
-  align-items:center;
-  justify-content:flex-end;
-  flex-wrap:nowrap; /* IMPORTANT: input+btn sempre su una riga */
 }
 
-body.home .searchbar input{
-  width:100%;
-  min-width:240px;
-  padding:12px 14px;
-  border-radius:999px;
-  border:1px solid var(--line, #e5e7eb);
-  background:#fff;
+/* Input: larghezza controllata, non rompe la riga */
+.wrap:has(.home-search) .home-search input{
+  width: min(520px, 44vw);
+  min-width: 260px;
 }
 
-body.home .searchbar .button.primary{
-  border-radius:999px;
-  background: var(--pp-blue);
-  border-color: var(--pp-blue);
-  color:#fff;
-  padding:12px 16px;
-  white-space:nowrap;
+/* Bottone Ricerca: BLU */
+.wrap:has(.home-search) #home_btn.button.primary,
+.wrap:has(.home-search) .home-search .button.primary{
+  background: var(--pp-blue) !important;
+  border-color: var(--pp-blue) !important;
+  color:#fff !important;
+  font-weight:800 !important;
 }
 
-body.home .home-hero{
-  margin:14px 0 18px;
+/* Hover bottone blu */
+.wrap:has(.home-search) #home_btn.button.primary:hover,
+.wrap:has(.home-search) .home-search .button.primary:hover{
+  filter: brightness(.95);
 }
 
-body.home .home-hero-img{
-  width:100%;
+/* Su schermi piccoli consentiamo il wrap (meglio che schiacciare tutto) */
+@media (max-width: 980px){
+  .wrap:has(.home-search) .header{
+    flex-wrap:wrap !important;
+  }
+  .wrap:has(.home-search) .home-search{
+    width:100%;
+    justify-content:flex-start;
+  }
+  .wrap:has(.home-search) .home-search input{
+    width:min(520px, 100%);
+    min-width: 0;
+    flex:1;
+  }
+}
+
+/* Hero image (foto negozio) sotto il box suggerimento */
+.wrap:has(.home-search)::after{
+  content:"";
   display:block;
-  border-radius:18px;
-  max-height:520px;
-  object-fit:cover;
-  box-shadow: 0 10px 25px rgba(0,0,0,.08);
-  border:1px solid rgba(0,0,0,.06);
+  margin: 18px auto 0;
+  width: min(980px, 100%);
+  aspect-ratio: 16 / 9;
+  border-radius: var(--pp-radius);
+  border: 1px solid var(--pp-line);
+  box-shadow: 0 10px 25px rgba(0,0,0,.06);
+  background: url("assets/sfondo_home_catalogo.jpg") center / cover no-repeat;
 }
 
-@media (max-width: 920px){
-  body.home .home-header{
-    grid-template-columns: 1fr;
-  }
-  body.home .actions{
-    justify-content:flex-start;
-  }
-  body.home .searchbar{
-    justify-content:flex-start;
-  }
-}
-
-/* ---------------- PRODOTTO ---------------- */
-body.product .product-hero-grid{
-  display:grid;
-  grid-template-columns: minmax(260px, 420px) 1fr;
-  gap:18px;
-  align-items:start;
-}
-
-body.product .product-img{
-  min-height:260px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-}
-
-body.product .product-img img{
-  max-height:360px;
-  width:100%;
-  height:auto;
-  object-fit:contain;
-}
-
-body.product .product-info .desc{
-  line-height:1.5;
-}
-
-@media (max-width: 920px){
-  body.product .product-hero-grid{
-    grid-template-columns: 1fr;
-  }
-}
+/* =======================================================================
+   NOTE
+   - Non tocchiamo .grid / .card / .imgbox: così categorie e pagine prodotto restano invariati
+   ======================================================================= */
