@@ -287,8 +287,8 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 114478,Buste a sacco Pigna Envelopes Multi Strip 30x40 cm avana Conf. 500 pezzi - 0655143,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 114485,Buste con 2 finestre Pigna Envelopes FLY-Matic 2 80 g/m² 115x230 mm bianco conf. 1000 - 0224302,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 114496,Buste a sacco con soffietto Pigna Envelopes Multi Strip Extra 23+4 x 33 cm avana Conf. 250 pezzi - 0208887,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
-114522,Buste con finestra Pigna Envelopes Silver90 90 g/m² 110x230 mm bianco conf. 500 - 0170578,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
-114755,Toner Q-Connect rigenerato Epson C13S050166 nero - K12305QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114522,Buste con finestra Pigna Envelopes Silver90 90 g/m² 110x230 mm bianco conf. 500 - 0170578,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+114755,Toner Q-Connect rigenerato Epson C13S050166 nero - K12305QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 114773,Toner Q-Connect rigenerato HP CE255A nero - KF14724,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 114774,Toner Q-Connect rigenerato Samsung MLT-D1052L/ELS nero - KF16096,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 114783,Toner Q-Connect rigenerato Lexmark C540H1KG nero - K15467QC,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
@@ -352,7 +352,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 120440,Braccio porta monitor per 2 schermi max 27'' DURABLE argento metallizzato 780x445x190 mm - 5085-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 120441,Braccio porta monitor per 1 schermo max 27'' e 1 tablet max 13'' DURABLE argento metallizzato 780x445x190 mm - 5087-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
 120442,Porta tablet da muro DURABLE Tablet Holder Wall XL 85x50x180 mm argento metallizzato - 8938-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
-120443,Cornice espositiva adesiva DURABLE DURAFRAME® A4 - argento conf. 10 pezzi  - 4882-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+120443,Cornice espositiva adesiva DURABLE DURAFRAME® A4 - argento conf. 10 pezzi  - 4882-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120445,Cassetta portachiavi in alluminio DURABLE Key Box 36 chiavi 302x118x280 mm - 1966-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 120446,Cassetta portachiavi in alluminio DURABLE Key Box 72 chiavi 302x118x400 mm - 1967-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 120447,Tasche per identificazione a fissaggio magnetico DURABLE 113x53 mm giallo Conf. 50 pz - 1741-04,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
@@ -430,6 +430,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 125279,Portabadge trasparente Durable no logo - conf 50 pz - 8950-19,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 125361,Cornice Duraframe Durable A5  conf. 10 pz - 4881-23,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 125362,Cornice espositiva Durable Duraframe® A4 236x323 blu conf. 10 pz - 4882-07,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
+126064,Blocco O.C.L. DDT mittente - destinatario 50x2 copie  14x21 cm 0110,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 126065,Blocco registro IVA dei Corrispettivi O.C.L. 12x2 copie autoricalcanti - 24x30 cm - 0501,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 128179,Distruggidocumenti manuale Leitz IQ P4 Home Office - 23 L - bianco - 80090100,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 128180,Distruggidocumenti manuale Leitz IQ P4 Office - 23 L - bianco - 80030000,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
