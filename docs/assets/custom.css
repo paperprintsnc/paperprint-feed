@@ -1,199 +1,158 @@
-/* ===============================
-   Paperprint - custom.css (override)
-   Obiettivo: migliorare leggibilità senza rompere layout categorie
-   =============================== */
-
-/* ---- LISTA PRODOTTI (prodotti/index.html) ---- */
-.rowline{
-  display:flex;
-  align-items:flex-start;
-  justify-content:space-between;
-  gap:14px;
-}
-.rowleft{min-width:0}
-.rowright{text-align:right;white-space:nowrap}
-@media (max-width: 640px){
-  .rowline{flex-direction:column}
-  .rowright{text-align:left;white-space:normal}
-}
-
-/* ---- PAGINA PRODOTTO (prodotti/SKU.html) ---- */
-/* Il generatore usa .hero con .imgbox + pannello info */
-.hero{justify-items:center}
-.hero .imgbox{
-  width:100%;
-  max-width:520px;
-  margin:0 auto;
-  min-height:220px;
-}
-.hero .imgbox img{
-  max-height:420px;
-}
-
-/* Titolo: un filo più contenuto e centrato */
-.hero + .p h1,
-.card h1{
-  text-align:center;
-  font-size:22px;
-  line-height:1.2;
-}
-
-/* SKU + Categoria: un po' più leggibili */
-.card .small{font-size:12.5px}
-
-/* Prezzo + stato: più “in colonna” e centrati */
-.price{text-align:center}
-.availability{text-align:center}
-
-/* ---- CATEGORIE (non stravolge) ---- */
-/* Evita immagini troppo “giganti” nelle card */
-.grid .imgbox{min-height:190px}
-.grid .imgbox img{max-height:260px}
-
-/* Titoli card leggermente più compatti (solo dentro le card della griglia) */
-.grid .card h3, .grid .card .h2{
-  font-size:15px;
-  line-height:1.25;
-}
-
-/* SKU/price nelle card: un filo più visibili */
-.grid .small{font-size:12.5px}
-
-/* ---- LINK WhatsApp: stile bottone coerente ---- */
-a[href*="wa.me"], a[href*="whatsapp"]{
-  text-decoration:none;
-}
 /* =========================================================
-   PAGINA PRODOTTO SINGOLO (prodotti/XXXXX.html)
-   Target sicuro: solo le card che CONTENGONO il bottone WhatsApp
-   (nelle liste/categorie non c'è il link wa.me)
+   Paperprint - custom.css (STABLE)
+   Scopo:
+   - Rifiniture SOLO HOME (header su una riga + bottoni blu + search inline)
+   - Mostra FOTO NEGOZIO come HERO centrale
+   - Nasconde BOX "Suggerimento" e FOOTER in HOME (come da tua immagine)
+   - NON tocca griglie categorie/listini e pagine prodotto
+   NOTE:
+   - Questo file sta in: docs/assets/custom.css
+   - L'immagine sta in: docs/assets/sfondo_home_catalogo.jpg
+     quindi si richiama: url("sfondo_home_catalogo.jpg")  (senza assets/)
    ========================================================= */
 
-/* La card prodotto singolo diventa 2 colonne (foto | info) */
-.wrap .card:has(a[href*="wa.me"]),
-.wrap .card:has(a[href*="whatsapp"]) {
-  display: grid !important;
-  grid-template-columns: minmax(320px, 520px) 1fr !important;
-  gap: 28px !important;
-  align-items: start !important;
+:root{
+  --pp-blue:#0b6bd3;
+  --pp-blue2:#1e90ff;
+  --pp-line:#e5e7eb;
+  --pp-radius:16px;
 }
 
-/* Titolo a tutta larghezza sopra le due colonne */
-.wrap .card:has(a[href*="wa.me"]) > h1,
-.wrap .card:has(a[href*="whatsapp"]) > h1 {
-  grid-column: 1 / -1 !important;
-  margin-bottom: 6px !important;
+/* =========================
+   HOME (index.html)
+   Applico gli stili SOLO se esiste #home_q
+   ========================= */
+body:has(#home_q) .header{
+  display:grid;
+  grid-template-columns: 1fr auto minmax(280px, 520px);
+  gap:12px 14px;
+  align-items:center;
 }
 
-/* Meta (SKU / categoria) a tutta larghezza sotto il titolo */
-.wrap .card:has(a[href*="wa.me"]) .meta,
-.wrap .card:has(a[href*="whatsapp"]) .meta {
-  grid-column: 1 / -1 !important;
+/* Brand: allinea meglio titolo e sottotitolo */
+body:has(#home_q) .brand h1{ margin:0; }
+body:has(#home_q) .brand .sub{ margin-top:2px; }
+
+/* Bottoni header: blu soft */
+body:has(#home_q) .actions{
+  display:flex;
+  gap:10px;
+  justify-content:center;
+}
+body:has(#home_q) .actions .button{
+  background:rgba(11,107,211,.10);
+  border:1px solid rgba(11,107,211,.22);
+  color:#0b2a55;
+  font-weight:650;
 }
 
-/* Qualsiasi separatore orizzontale rimane a tutta larghezza */
-.wrap .card:has(a[href*="wa.me"]) hr,
-.wrap .card:has(a[href*="whatsapp"]) hr {
-  grid-column: 1 / -1 !important;
+/* Search HOME: input + bottone su una riga */
+body:has(#home_q) .home-search{
+  display:flex;
+  gap:10px;
+  justify-content:flex-end;
+  align-items:center;
+  flex-wrap:nowrap;
+}
+body:has(#home_q) .home-search .input{
+  width:100%;
+  max-width:520px;
+}
+body:has(#home_q) #home_btn.button.primary{
+  background:var(--pp-blue);
+  border-color:var(--pp-blue);
+  color:#fff;
+  font-weight:700;
+}
+body:has(#home_q) #home_btn.button.primary:hover{
+  background:var(--pp-blue2);
+  border-color:var(--pp-blue2);
 }
 
-/* Immagine: sempre contenuta, centrata, mai "invadente" */
-.wrap .card:has(a[href*="wa.me"]) img,
-.wrap .card:has(a[href*="whatsapp"]) img {
-  grid-column: 1 / 2 !important;
-  width: 100% !important;
-  max-width: 520px !important;
-  height: auto !important;
-  max-height: 420px !important;
-  object-fit: contain !important;
-  display: block !important;
-  margin: 0 auto !important;
-}
-
-/* Blocco info: forziamo tutto il testo (prezzo/stato/desc/bottone) in colonna 2 */
-.wrap .card:has(a[href*="wa.me"]) .price,
-.wrap .card:has(a[href*="wa.me"]) .status,
-.wrap .card:has(a[href*="wa.me"]) .desc,
-.wrap .card:has(a[href*="wa.me"]) a[href*="wa.me"],
-.wrap .card:has(a[href*="whatsapp"]) .price,
-.wrap .card:has(a[href*="whatsapp"]) .status,
-.wrap .card:has(a[href*="whatsapp"]) .desc,
-.wrap .card:has(a[href*="whatsapp"]) a[href*="wa.me"],
-.wrap .card:has(a[href*="whatsapp"]) a[href*="whatsapp"]{
-  grid-column: 2 / 3 !important;
-}
-
-/* Prezzo: stile “riservato” + allineamento a destra come nel modello */
-.wrap .card:has(a[href*="wa.me"]) .price,
-.wrap .card:has(a[href*="whatsapp"]) .price {
-  display: flex !important;
-  justify-content: flex-end !important;
-  align-items: baseline !important;
-  gap: 12px !important;
-  font-weight: 800 !important;
-}
-
-.wrap .card:has(a[href*="wa.me"]) .price::before,
-.wrap .card:has(a[href*="whatsapp"]) .price::before {
-  content: "Prezzo Riservato" !important;
-  font-weight: 800 !important;
-  color: #2f5bd8 !important;
-}
-
-.wrap .card:has(a[href*="wa.me"]) .price del,
-.wrap .card:has(a[href*="whatsapp"]) .price del {
-  opacity: .55 !important;
-}
-
-/* Stato: verde, a destra sotto il prezzo */
-.wrap .card:has(a[href*="wa.me"]) .status,
-.wrap .card:has(a[href*="whatsapp"]) .status {
-  text-align: right !important;
-  font-weight: 800 !important;
-  color: #1f7a36 !important;
-}
-
-/* Descrizione più ariosa e non troppo larga */
-.wrap .card:has(a[href*="wa.me"]) .desc,
-.wrap .card:has(a[href*="whatsapp"]) .desc {
-  line-height: 1.55 !important;
-  max-width: 680px !important;
-  margin-left: auto !important; /* resta “incolonnata” a destra */
-}
-
-/* Bottone WhatsApp: non deve MAI sovrapporsi alla foto */
-.wrap .card:has(a[href*="wa.me"]) a[href*="wa.me"],
-.wrap .card:has(a[href*="whatsapp"]) a[href*="wa.me"],
-.wrap .card:has(a[href*="whatsapp"]) a[href*="whatsapp"]{
-  justify-self: start !important;
-  align-self: start !important;
-  position: relative !important;
-  z-index: 1 !important;
-  margin-top: 10px !important;
-}
-
-/* Responsive: su mobile torna 1 colonna */
-@media (max-width: 900px){
-  .wrap .card:has(a[href*="wa.me"]),
-  .wrap .card:has(a[href*="whatsapp"]) {
-    grid-template-columns: 1fr !important;
+/* Mobile: torna a colonna ma ordinata */
+@media (max-width: 860px){
+  body:has(#home_q) .header{
+    grid-template-columns: 1fr;
+    justify-items:stretch;
   }
-  .wrap .card:has(a[href*="wa.me"]) img,
-  .wrap .card:has(a[href*="whatsapp"]) img{
-    grid-column: 1 / -1 !important;
-    max-height: 320px !important;
+  body:has(#home_q) .actions{ justify-content:flex-start; }
+  body:has(#home_q) .home-search{ justify-content:flex-start; }
+}
+
+/* Nascondi box "Suggerimento" e footer SOLO in HOME */
+body:has(#home_q) .card.p{ display:none !important; }
+body:has(#home_q) .footer{ display:none !important; }
+
+/* HERO: crea il box immagine dopo la wrap (a fine contenuto) */
+body:has(#home_q) .wrap::after{
+  content:"";
+  display:block;
+  width:min(980px, 100%);
+  aspect-ratio: 16 / 9;
+  margin: 18px auto 0;
+  border-radius: var(--pp-radius);
+  border:1px solid var(--pp-line);
+  box-shadow:0 10px 25px rgba(0,0,0,.06);
+
+  /* IMPORTANTE: path relativo corretto (stessa cartella di custom.css) */
+  background: url("sfondo_home_catalogo.jpg") center / cover no-repeat;
+}
+/* =========================================================
+   PRODOTTO SINGOLO (prodotti/XXXXX.html)
+   SOLO layout HERO (immagine + info) — non tocca liste/categorie
+   ========================================================= */
+
+/* Layout 2 colonne SOLO se esiste .hero con .imgbox (tipico pagina prodotto) */
+body:not(.home) .hero:has(.imgbox) {
+  display: grid;
+  grid-template-columns: minmax(320px, 520px) 1fr;
+  gap: 28px;
+  align-items: center;
+}
+
+/* Titolo centrato in alto (resta sopra le 2 colonne) */
+body:not(.home) h1 {
+  text-align: center;
+}
+
+/* Box immagine */
+body:not(.home) .hero:has(.imgbox) .imgbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+/* Immagine: NON deve mai “sfondare” e resta contenuta */
+body:not(.home) .hero:has(.imgbox) .imgbox img {
+  max-width: 100%;
+  max-height: 420px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Pannello info testuale (di solito è .p nel tuo markup) */
+body:not(.home) .hero:has(.imgbox) .p {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Prezzo più “da listino” (senza rompere altro) */
+body:not(.home) .hero:has(.imgbox) .p b {
+  font-size: 1.15rem;
+}
+
+/* Responsive: sotto i 900px va in colonna */
+@media (max-width: 900px) {
+  body:not(.home) .hero:has(.imgbox) {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
-  .wrap .card:has(a[href*="wa.me"]) .price,
-  .wrap .card:has(a[href*="whatsapp"]) .price,
-  .wrap .card:has(a[href*="wa.me"]) .status,
-  .wrap .card:has(a[href*="whatsapp"]) .status{
-    justify-content: center !important;
-    text-align: center !important;
-  }
-  .wrap .card:has(a[href*="wa.me"]) .desc,
-  .wrap .card:has(a[href*="whatsapp"]) .desc{
-    margin-left: 0 !important;
-    max-width: 100% !important;
-    text-align: center !important;
+
+  body:not(.home) .hero:has(.imgbox) .imgbox img {
+    max-height: 320px;
   }
 }
