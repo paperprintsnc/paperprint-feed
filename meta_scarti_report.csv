@@ -48,7 +48,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 102246,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 4 TB nero - 53223,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 102247,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 1 TB argento - 53197,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
 102248,Hard Disk Esterno Verbatim Store 'n' Go USB 3.0 2 TB argento - 53198,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
-102252,Hard Disk Esterno Verbatim Store'n' Go Secure 3.1 con tastierino d'accesso 1 TB nero - 53401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,1.0,False,True
+102252,Hard Disk Esterno Verbatim Store'n' Go Secure 3.1 con tastierino d'accesso 1 TB nero - 53401,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 102257,Flash Memory Card SDHC Verbatim 16 GB  43962,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 102270,DVD-R Wide Stampabile Verbatim 4.7 GB Spindle Case in confezione da 25 dvd - 43538,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
 102274,Blu-Ray BD-RE Verbatim 25 GB 2x Jewel Case conf. da 5 - 43615,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,3.0,False,True
@@ -200,6 +200,7 @@ SKU,title,reason,has_price_row,has_buy,has_listino,has_stock_row,qty,passes_qty,
 107521,"Porta tablet da muro DURABLE con braccio ad angolazione variabile argento metallizzato 8,5x5x18cm - 893523",SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 107584,Fatturazione elettronica Semper conferimento/revoca delega servizi - modulo continuo - 851118FE0,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 107585,Cassetto fiscale Semper conferimento/delega consultazione - modulo continuo - 851118CS0,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
+107622,Caricabatterie Duracell Charger CEF 14 (4 ore) con 2 AA+2AAA Value DU101,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 107919,Cancellino magnetico per lavagna EURO-CART blu 14x5 cm L-35/35,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,2.0,False,True
 108058,Classificatore alfanumerico con custodia King Mec MEC 12 dorso 7 cm blu 11304,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,0.0,False,True
 108428,Registratore con custodia Esselte G54 Eurofile protocollo dorso 5 cm cartone rivestito in PP verde - 390754180,SCARTO_STOCK_SOTTO_SOGLIA,True,True,True,True,4.0,False,True
